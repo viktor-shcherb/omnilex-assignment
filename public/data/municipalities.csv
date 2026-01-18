@@ -1,0 +1,2173 @@
+cantonId,cantonLabel,municipalityId,municipalityLabel
+Q12713,Canton of Thurgau,Q69131,Aadorf
+Q11972,Canton of Aargau,Q14274,Aarau
+Q11911,Canton of Berne,Q64113,Aarberg
+Q11972,Canton of Aargau,Q64165,Aarburg
+Q11911,Canton of Berne,Q69222,Aarwangen
+Q11972,Canton of Aargau,Q69219,Abtwil
+Q12771,Canton of Vaud,Q30986,Aclens
+Q12724,Canton of Ticino,Q68358,Acquarossa
+Q11911,Canton of Berne,Q68994,Adelboden
+Q12121,Canton of Lucerne,Q14563,Adligenswil
+Q11943,Canton of Zürich,Q68210,Adliswil
+Q11929,Canton of Solothurn,Q68384,Aedermannsdorf
+Q11911,Canton of Berne,Q68376,Aefligen
+Q11911,Canton of Berne,Q69389,Aegerten
+Q12146,Canton of Basel-Landschaft,Q68367,Aesch
+Q12121,Canton of Lucerne,Q7120,Aesch
+Q11943,Canton of Zürich,Q68342,Aesch
+Q11929,Canton of Solothurn,Q68324,Aeschi
+Q11911,Canton of Berne,Q68327,Aeschi bei Spiez
+Q11943,Canton of Zürich,Q64945,Aeugst am Albis
+Q12713,Canton of Thurgau,Q65800,Affeltrangen
+Q11943,Canton of Zürich,Q68290,Affoltern am Albis
+Q11911,Canton of Berne,Q65169,Affoltern im Emmental
+Q834,Canton of Valais,Q66913,Agarn
+Q12771,Canton of Vaud,Q43188,Agiez
+Q12724,Canton of Ticino,Q67109,Agno
+Q12771,Canton of Vaud,Q43195,Aigle
+Q11917,Canton of Geneva,Q65280,Aire-la-Ville
+Q12724,Canton of Ticino,Q69265,Airolo
+Q12121,Canton of Lucerne,Q14584,Alberswil
+Q834,Canton of Valais,Q69889,Albinen
+Q11925,Canton of the Grisons,Q15890943,Albula/Alvra
+Q11911,Canton of Berne,Q66945,Alchenstorf
+Q12771,Canton of Vaud,Q43201,Allaman
+Q12755,Canton of Jura,Q25333,Alle
+Q11911,Canton of Berne,Q67432,Allmendingen bei Bern
+Q12146,Canton of Basel-Landschaft,Q64727,Allschwil
+Q12573,Canton of Obwalden,Q69296,Alpnach
+Q12433,Canton of Schwyz,Q66231,Alpthal
+Q12121,Canton of Lucerne,Q14585,Altbüron
+Q12404,Canton of Uri,Q68150,Altdorf
+Q12433,Canton of Schwyz,Q69625,Altendorf
+Q11943,Canton of Zürich,Q65929,Altikon
+Q12121,Canton of Lucerne,Q14586,Altishofen
+Q12713,Canton of Thurgau,Q69237,Altnau
+Q12724,Canton of Ticino,Q67010,Alto Malcantone
+Q12746,Canton of St. Gallen,Q68281,Altstätten
+Q12746,Canton of St. Gallen,Q65679,Amden
+Q12713,Canton of Thurgau,Q65787,Amlikon-Bissegg
+Q11972,Canton of Aargau,Q65198,Ammerswil
+Q12713,Canton of Thurgau,Q69768,Amriswil
+Q11911,Canton of Berne,Q64776,Amsoldingen
+Q11925,Canton of the Grisons,Q64359,Andeer
+Q11943,Canton of Zürich,Q68423,Andelfingen
+Q12404,Canton of Uri,Q64019,Andermatt
+Q12746,Canton of St. Gallen,Q67726,Andwil
+Q11917,Canton of Geneva,Q69842,Anières
+Q834,Canton of Valais,Q70336,Anniviers
+Q12146,Canton of Basel-Landschaft,Q66803,Anwil
+Q12094,Canton of Appenzell Innerrhoden,Q67125,Appenzell
+Q12724,Canton of Ticino,Q68792,Aranno
+Q834,Canton of Valais,Q68113,Arbaz
+Q12724,Canton of Ticino,Q69788,Arbedo-Castione
+Q12146,Canton of Basel-Landschaft,Q64702,Arboldswil
+Q12713,Canton of Thurgau,Q64156,Arbon
+Q11911,Canton of Berne,Q11729,Arch
+Q834,Canton of Valais,Q69556,Ardon
+Q12146,Canton of Basel-Landschaft,Q66564,Arisdorf
+Q11972,Canton of Aargau,Q64752,Aristau
+Q12146,Canton of Basel-Landschaft,Q581647,Arlesheim
+Q12771,Canton of Vaud,Q43206,Arnex-sur-Nyon
+Q12771,Canton of Vaud,Q43212,Arnex-sur-Orbe
+Q11972,Canton of Aargau,Q64324,Arni
+Q11911,Canton of Berne,Q67569,Arni
+Q12724,Canton of Ticino,Q68449,Arogno
+Q11925,Canton of the Grisons,Q63954,Arosa
+Q12433,Canton of Schwyz,Q69742,Arth
+Q12771,Canton of Vaud,Q43218,Arzier-Le Muids
+Q12724,Canton of Ticino,Q63992,Ascona
+Q12771,Canton of Vaud,Q43225,Assens
+Q12640,Canton of Fribourg,Q38652,Attalens
+Q12404,Canton of Uri,Q69279,Attinghausen
+Q11911,Canton of Berne,Q67257,Attiswil
+Q12746,Canton of St. Gallen,Q66254,Au
+Q12771,Canton of Vaud,Q43232,Aubonne
+Q12640,Canton of Fribourg,Q70438,Auboranges
+Q11972,Canton of Aargau,Q64504,Auenstein
+Q12146,Canton of Basel-Landschaft,Q66515,Augst
+Q834,Canton of Valais,Q68022,Ausserberg
+Q11911,Canton of Berne,Q67598,Auswil
+Q12640,Canton of Fribourg,Q70180,Autigny
+Q11972,Canton of Aargau,Q64420,Auw
+Q12724,Canton of Ticino,Q70603,Avegno Gordevio
+Q12771,Canton of Vaud,Q43236,Avenches
+Q11925,Canton of the Grisons,Q69196,Avers
+Q12640,Canton of Fribourg,Q67073,Avry
+Q11917,Canton of Geneva,Q69200,Avully
+Q11917,Canton of Geneva,Q68174,Avusy
+Q834,Canton of Valais,Q70167,Ayent
+Q11933,Canton of Zug,Q64087,Baar
+Q11943,Canton of Zürich,Q69887,Bachenbülach
+Q11943,Canton of Zürich,Q70273,Bachs
+Q12746,Canton of St. Gallen,Q95759,Bad Ragaz
+Q11972,Canton of Aargau,Q64186,Bad Zurzach
+Q11972,Canton of Aargau,Q63939,Baden
+Q11972,Canton of Aargau,Q65381,Baldingen
+Q12724,Canton of Ticino,Q70141,Balerna
+Q12746,Canton of St. Gallen,Q65508,Balgach
+Q12771,Canton of Vaud,Q43239,Ballaigues
+Q12771,Canton of Vaud,Q43240,Ballens
+Q12121,Canton of Lucerne,Q7096,Ballwil
+Q11929,Canton of Solothurn,Q66966,Balm bei Günsberg
+Q11929,Canton of Solothurn,Q65455,Balsthal
+Q834,Canton of Valais,Q70154,Baltschieder
+Q11911,Canton of Berne,Q66841,Bannwil
+Q11917,Canton of Geneva,Q68191,Bardonnex
+Q11943,Canton of Zürich,Q65868,Bäretswil
+Q11911,Canton of Berne,Q66438,Bargen
+Q12697,Canton of Schaffhausen,Q69156,Bargen
+Q11911,Canton of Berne,Q68565,Bäriswil
+Q11929,Canton of Solothurn,Q66716,Bärschwil
+Q12640,Canton of Fribourg,Q66020,Bas-Intyamon
+Q12713,Canton of Thurgau,Q66711,Basadingen-Schlattingen
+Q12172,Canton of Basel-Stadt,Q78,Basel
+Q12755,Canton of Jura,Q70531,Basse-Allaine
+Q12755,Canton of Jura,Q113535598,Basse-Vendline
+Q11943,Canton of Zürich,Q69734,Bassersdorf
+Q12771,Canton of Vaud,Q43243,Bassins
+Q11911,Canton of Berne,Q67596,Bätterkinden
+Q11929,Canton of Solothurn,Q70027,Bättwil
+Q12771,Canton of Vaud,Q43245,Baulmes
+Q11943,Canton of Zürich,Q67145,Bauma
+Q12771,Canton of Vaud,Q43248,Bavois
+Q11911,Canton of Berne,Q68108,Beatenberg
+Q12592,Canton of Nidwalden,Q69140,Beckenried
+Q12724,Canton of Ticino,Q68799,Bedano
+Q12724,Canton of Ticino,Q67035,Bedretto
+Q12697,Canton of Schaffhausen,Q69123,Beggingen
+Q12771,Canton of Vaud,Q43251,Begnins
+Q11929,Canton of Solothurn,Q65391,Beinwil
+Q11972,Canton of Aargau,Q65024,Beinwil (Freiamt)
+Q11972,Canton of Aargau,Q65000,Beinwil am See
+Q12640,Canton of Fribourg,Q65880,Belfaux
+Q11929,Canton of Solothurn,Q66403,Bellach
+Q11917,Canton of Geneva,Q69836,Bellevue
+Q11972,Canton of Aargau,Q64521,Bellikon
+Q12724,Canton of Ticino,Q64044,Bellinzona
+Q11911,Canton of Berne,Q67382,Bellmund
+Q834,Canton of Valais,Q68466,Bellwald
+Q12640,Canton of Fribourg,Q17310488,Belmont-Broye
+Q12771,Canton of Vaud,Q43254,Belmont-sur-Lausanne
+Q12771,Canton of Vaud,Q43256,Belmont-sur-Yverdon
+Q11911,Canton of Berne,Q69678,Belp
+Q11911,Canton of Berne,Q67296,Belprahon
+Q12746,Canton of St. Gallen,Q67227,Benken
+Q11943,Canton of Zürich,Q70171,Benken
+Q12146,Canton of Basel-Landschaft,Q64735,Bennwil
+Q12771,Canton of Vaud,Q52256,Bercher
+Q12746,Canton of St. Gallen,Q67318,Berg
+Q12713,Canton of Thurgau,Q67165,Berg
+Q11943,Canton of Zürich,Q65781,Berg am Irchel
+Q11972,Canton of Aargau,Q68302,Bergdietikon
+Q11925,Canton of the Grisons,Q22465879,Bergün Filisur
+Q11972,Canton of Aargau,Q64334,Berikon
+Q12697,Canton of Schaffhausen,Q69186,Beringen
+Q11911,Canton of Berne,Q67803,Berken
+Q12713,Canton of Thurgau,Q65463,Berlingen
+Q11911,Canton of Berne,Q70,Bern
+Q12746,Canton of St. Gallen,Q67225,Berneck
+Q11917,Canton of Geneva,Q65259,Bernex
+Q12771,Canton of Vaud,Q52258,Berolle
+Q12121,Canton of Lucerne,Q7146,Beromünster
+Q11972,Canton of Aargau,Q659378,Besenbüren
+Q11911,Canton of Berne,Q67588,Bettenhausen
+Q12771,Canton of Vaud,Q52259,Bettens
+Q12172,Canton of Basel-Stadt,Q67530,Bettingen
+Q11929,Canton of Solothurn,Q66831,Bettlach
+Q834,Canton of Valais,Q15107547,Bettmeralp
+Q12713,Canton of Thurgau,Q65823,Bettwiesen
+Q11972,Canton of Aargau,Q64415,Bettwil
+Q12755,Canton of Jura,Q67869,Beurnevésin
+Q11925,Canton of the Grisons,Q69121,Bever
+Q12771,Canton of Vaud,Q52261,Bex
+Q12724,Canton of Ticino,Q67523,Biasca
+Q11929,Canton of Solothurn,Q66723,Biberist
+Q11972,Canton of Aargau,Q64491,Biberstein
+Q12713,Canton of Thurgau,Q65820,Bichelsee-Balterswil
+Q12146,Canton of Basel-Landschaft,Q70067,Biel-Benken
+Q11911,Canton of Berne,Q1034,Biel/Bienne
+Q12771,Canton of Vaud,Q52262,Bière
+Q11929,Canton of Solothurn,Q67004,Biezwil
+Q11911,Canton of Berne,Q65875,Biglen
+Q12640,Canton of Fribourg,Q70454,Billens-Hennens
+Q834,Canton of Valais,Q68471,Binn
+Q12146,Canton of Basel-Landschaft,Q69621,Binningen
+Q12724,Canton of Ticino,Q68425,Bioggio
+Q12771,Canton of Vaud,Q52263,Bioley-Magnoux
+Q11943,Canton of Zürich,Q65282,Birmensdorf
+Q11972,Canton of Aargau,Q64457,Birmenstorf
+Q11972,Canton of Aargau,Q64411,Birr
+Q11972,Canton of Aargau,Q64987,Birrhard
+Q11972,Canton of Aargau,Q64673,Birrwil
+Q12146,Canton of Basel-Landschaft,Q64665,Birsfelden
+Q12713,Canton of Thurgau,Q65767,Birwinken
+Q12713,Canton of Thurgau,Q64865,Bischofszell
+Q12724,Canton of Ticino,Q69269,Bissone
+Q834,Canton of Valais,Q70351,Bister
+Q834,Canton of Valais,Q68046,Bitsch
+Q834,Canton of Valais,Q67496,Blatten
+Q12146,Canton of Basel-Landschaft,Q66371,Blauen
+Q11911,Canton of Berne,Q67606,Bleienbach
+Q12724,Canton of Ticino,Q68789,Blenio
+Q12771,Canton of Vaud,Q106804643,Blonay – Saint-Légier
+Q11911,Canton of Berne,Q66139,Blumenstein
+Q11972,Canton of Aargau,Q65225,Böbikon
+Q12146,Canton of Basel-Landschaft,Q66731,Böckten
+Q12755,Canton of Jura,Q69942,Boécourt
+Q12771,Canton of Vaud,Q52267,Bofflens
+Q12771,Canton of Vaud,Q52268,Bogis-Bossey
+Q12640,Canton of Fribourg,Q88464491,Bois-d’Amont
+Q11929,Canton of Solothurn,Q66688,Bolken
+Q11911,Canton of Berne,Q69160,Bolligen
+Q11911,Canton of Berne,Q65939,Boltigen
+Q11925,Canton of the Grisons,Q64473,Bonaduz
+Q12755,Canton of Jura,Q66980,Boncourt
+Q12755,Canton of Jura,Q67993,Bonfol
+Q11911,Canton of Berne,Q65502,Bönigen
+Q11929,Canton of Solothurn,Q65606,Boningen
+Q11972,Canton of Aargau,Q64529,Boniswil
+Q11943,Canton of Zürich,Q65510,Bonstetten
+Q12771,Canton of Vaud,Q52269,Bonvillars
+Q11943,Canton of Zürich,Q67062,Boppelsen
+Q12771,Canton of Vaud,Q52270,Borex
+Q12724,Canton of Ticino,Q70328,Bosco/Gurin
+Q12640,Canton of Fribourg,Q67379,Bösingen
+Q12640,Canton of Fribourg,Q68429,Bossonnens
+Q11972,Canton of Aargau,Q65222,Boswil
+Q12771,Canton of Vaud,Q52271,Bottens
+Q11972,Canton of Aargau,Q64261,Bottenwil
+Q12640,Canton of Fribourg,Q67143,Botterens
+Q12713,Canton of Thurgau,Q65962,Bottighofen
+Q12146,Canton of Basel-Landschaft,Q70036,Bottmingen
+Q11972,Canton of Aargau,Q65002,Böttstein
+Q12738,Canton of Neuchâtel,Q69507,Boudry
+Q12771,Canton of Vaud,Q52272,Bougy-Villars
+Q12771,Canton of Vaud,Q52273,Boulens
+Q12771,Canton of Vaud,Q52274,Bourg-en-Lavaux
+Q834,Canton of Valais,Q70157,Bourg-Saint-Pierre
+Q12771,Canton of Vaud,Q52276,Bournens
+Q12755,Canton of Jura,Q70063,Bourrignon
+Q12771,Canton of Vaud,Q52278,Boussens
+Q834,Canton of Valais,Q70145,Bovernier
+Q11911,Canton of Berne,Q69380,Bowil
+Q11972,Canton of Aargau,Q1020189,Bözberg
+Q11972,Canton of Aargau,Q64520764,Böztal
+Q12713,Canton of Thurgau,Q69702,Braunau
+Q11925,Canton of the Grisons,Q70677,Bregaglia
+Q12724,Canton of Ticino,Q70629,Breggia
+Q11925,Canton of the Grisons,Q64920,Breil/Brigels
+Q11929,Canton of Solothurn,Q66672,Breitenbach
+Q12771,Canton of Vaud,Q52281,Bremblens
+Q11972,Canton of Aargau,Q64139,Bremgarten
+Q11911,Canton of Berne,Q68185,Bremgarten bei Bern
+Q11911,Canton of Berne,Q66146,Brenzikofen
+Q12771,Canton of Vaud,Q52287,Bretigny-sur-Morrens
+Q12771,Canton of Vaud,Q52289,Bretonnières
+Q12146,Canton of Basel-Landschaft,Q64829,Bretzwil
+Q11911,Canton of Berne,Q65268,Brienz
+Q11911,Canton of Berne,Q65211,Brienzwiler
+Q834,Canton of Valais,Q15583,Brig-Glis
+Q12724,Canton of Ticino,Q68794,Brione sopra Minusio
+Q12146,Canton of Basel-Landschaft,Q66725,Brislach
+Q12724,Canton of Ticino,Q69706,Brissago
+Q11972,Canton of Aargau,Q64273,Brittnau
+Q12640,Canton of Fribourg,Q67519,Broc
+Q12738,Canton of Neuchâtel,Q70519,Brot-Plamboz
+Q11972,Canton of Aargau,Q64099,Brugg
+Q11911,Canton of Berne,Q69455,Brügg
+Q11972,Canton of Aargau,Q64656,Brunegg
+Q12640,Canton of Fribourg,Q66952,Brünisried
+Q12724,Canton of Ticino,Q70120,Brusino Arsizio
+Q11925,Canton of the Grisons,Q64580,Brusio
+Q11911,Canton of Berne,Q67260,Brüttelen
+Q11943,Canton of Zürich,Q65812,Brütten
+Q12146,Canton of Basel-Landschaft,Q66532,Bubendorf
+Q11943,Canton of Zürich,Q67068,Bubikon
+Q12697,Canton of Schaffhausen,Q66305,Buch
+Q11943,Canton of Zürich,Q68451,Buch am Irchel
+Q12697,Canton of Schaffhausen,Q65808,Buchberg
+Q11929,Canton of Solothurn,Q15108127,Buchegg
+Q11911,Canton of Berne,Q65495,Buchholterberg
+Q12771,Canton of Vaud,Q52291,Buchillon
+Q12121,Canton of Lucerne,Q7098,Buchrain
+Q11972,Canton of Aargau,Q64512,Buchs
+Q12746,Canton of St. Gallen,Q68277,Buchs
+Q11943,Canton of Zürich,Q67539,Buchs
+Q12146,Canton of Basel-Landschaft,Q66570,Buckten
+Q11911,Canton of Berne,Q67399,Büetigen
+Q11911,Canton of Berne,Q69983,Bühl
+Q12079,Canton of Appenzell Ausserrhoden,Q67197,Bühler
+Q11943,Canton of Zürich,Q9093,Bülach
+Q12640,Canton of Fribourg,Q68308,Bulle
+Q12771,Canton of Vaud,Q52293,Bullet
+Q11972,Canton of Aargau,Q64784,Bünzen
+Q12592,Canton of Nidwalden,Q64567,Buochs
+Q834,Canton of Valais,Q70712,Bürchen
+Q12755,Canton of Jura,Q68445,Bure
+Q11929,Canton of Solothurn,Q70057,Büren
+Q11911,Canton of Berne,Q66360,Büren an der Aare
+Q12146,Canton of Basel-Landschaft,Q70008,Burg im Leimental
+Q11911,Canton of Berne,Q68311,Burgdorf
+Q11911,Canton of Berne,Q66393,Burgistein
+Q12713,Canton of Thurgau,Q65599,Bürglen
+Q12404,Canton of Uri,Q69321,Bürglen
+Q12121,Canton of Lucerne,Q7139,Büron
+Q12771,Canton of Vaud,Q52296,Bursinel
+Q12771,Canton of Vaud,Q52298,Bursins
+Q12771,Canton of Vaud,Q52299,Burtigny
+Q11925,Canton of the Grisons,Q65369,Buseno
+Q11929,Canton of Solothurn,Q66770,Büsserach
+Q12771,Canton of Vaud,Q52300,Bussigny
+Q12713,Canton of Thurgau,Q65983,Bussnang
+Q11911,Canton of Berne,Q67450,Busswil bei Melchnau
+Q12771,Canton of Vaud,Q52304,Bussy-sur-Moudon
+Q12746,Canton of St. Gallen,Q1021823,Bütschwil-Ganterschwil
+Q12697,Canton of Schaffhausen,Q69128,Büttenhardt
+Q11972,Canton of Aargau,Q64768,Büttikon
+Q12121,Canton of Lucerne,Q7132,Buttisholz
+Q11972,Canton of Aargau,Q64792,Buttwil
+Q12146,Canton of Basel-Landschaft,Q66325,Buus
+Q12724,Canton of Ticino,Q68806,Cademario
+Q12724,Canton of Ticino,Q67975,Cadempino
+Q12724,Canton of Ticino,Q69790,Cadenazzo
+Q11925,Canton of the Grisons,Q18229597,Calanca
+Q11925,Canton of the Grisons,Q66024,Cama
+Q12724,Canton of Ticino,Q67864,Campo (Vallemaggia)
+Q12724,Canton of Ticino,Q68434,Canobbio
+Q12724,Canton of Ticino,Q69043,Capriasca
+Q11917,Canton of Geneva,Q69364,Carouge
+Q11917,Canton of Geneva,Q65531,Cartigny
+Q12724,Canton of Ticino,Q67270,Caslano
+Q11925,Canton of the Grisons,Q659408,Castaneda
+Q12724,Canton of Ticino,Q67872,Castel San Pietro
+Q11925,Canton of the Grisons,Q64443,Cazis
+Q11925,Canton of the Grisons,Q64964,Celerina/Schlarigna
+Q11917,Canton of Geneva,Q69410,Céligny
+Q12724,Canton of Ticino,Q70611,Centovalli
+Q12724,Canton of Ticino,Q67965,Cerentino
+Q12724,Canton of Ticino,Q67675,Cevio
+Q834,Canton of Valais,Q70736,Chalais
+Q11933,Canton of Zug,Q69235,Cham
+Q12771,Canton of Vaud,Q52678,Chamblon
+Q834,Canton of Valais,Q70178,Chamoson
+Q12771,Canton of Vaud,Q52685,Champagne
+Q834,Canton of Valais,Q70099,Champéry
+Q11911,Canton of Berne,Q66938,Champoz
+Q12771,Canton of Vaud,Q52690,Champtauroz
+Q12771,Canton of Vaud,Q52694,Champvent
+Q11917,Canton of Geneva,Q69811,Chancy
+Q12640,Canton of Fribourg,Q70175,Chapelle
+Q12771,Canton of Vaud,Q52698,Chardonne
+Q12771,Canton of Vaud,Q52699,Château-d’Oex
+Q12640,Canton of Fribourg,Q69517,Châtel-Saint-Denis
+Q12640,Canton of Fribourg,Q67800,Châtel-sur-Montsalvens
+Q12640,Canton of Fribourg,Q70297,Châtillon
+Q12755,Canton of Jura,Q68803,Châtillon
+Q12640,Canton of Fribourg,Q70418,Châtonnaye
+Q12771,Canton of Vaud,Q52702,Chavannes-de-Bogis
+Q12771,Canton of Vaud,Q52703,Chavannes-des-Bois
+Q12771,Canton of Vaud,Q52704,Chavannes-le-Chêne
+Q12771,Canton of Vaud,Q52706,Chavannes-le-Veyron
+Q12771,Canton of Vaud,Q52714,Chavannes-près-Renens
+Q12771,Canton of Vaud,Q52719,Chavannes-sur-Moudon
+Q12771,Canton of Vaud,Q52726,Chavornay
+Q11917,Canton of Geneva,Q69530,Chêne-Bougeries
+Q11917,Canton of Geneva,Q69035,Chêne-Bourg
+Q12771,Canton of Vaud,Q52737,Chêne-Pâquier
+Q12640,Canton of Fribourg,Q67079,Chénens
+Q12771,Canton of Vaud,Q52752,Cheseaux-Noréaz
+Q12771,Canton of Vaud,Q52773,Cheseaux-sur-Lausanne
+Q12771,Canton of Vaud,Q52777,Chéserex
+Q12771,Canton of Vaud,Q52781,Chessel
+Q12771,Canton of Vaud,Q52785,Chevilly
+Q12771,Canton of Vaud,Q52803,Chevroux
+Q12771,Canton of Vaud,Q52818,Chexbres
+Q12640,Canton of Fribourg,Q22490623,Cheyres-Châbles
+Q12724,Canton of Ticino,Q68111,Chiasso
+Q12771,Canton of Vaud,Q57086,Chigny
+Q834,Canton of Valais,Q69986,Chippis
+Q11917,Canton of Geneva,Q68180,Choulex
+Q11925,Canton of the Grisons,Q69007,Chur
+Q11925,Canton of the Grisons,Q64363,Churwalden
+Q12771,Canton of Vaud,Q57088,Clarmont
+Q12755,Canton of Jura,Q68869,Clos du Doubs
+Q12755,Canton of Jura,Q68821,Coeuve
+Q12771,Canton of Vaud,Q57091,Coinsins
+Q12724,Canton of Ticino,Q67738,Coldrerio
+Q11917,Canton of Geneva,Q65691,Collex-Bossy
+Q12724,Canton of Ticino,Q69062,Collina d'Oro
+Q834,Canton of Valais,Q70165,Collombey-Muraz
+Q11917,Canton of Geneva,Q69037,Collonge-Bellerive
+Q834,Canton of Valais,Q68846,Collonges
+Q11917,Canton of Geneva,Q69245,Cologny
+Q12724,Canton of Ticino,Q70133,Comano
+Q12771,Canton of Vaud,Q57094,Commugny
+Q12771,Canton of Vaud,Q57096,Concise
+Q11917,Canton of Geneva,Q65277,Confignon
+Q11925,Canton of the Grisons,Q65100,Conters im Prättigau
+Q834,Canton of Valais,Q69563,Conthey
+Q12771,Canton of Vaud,Q57097,Coppet
+Q12755,Canton of Jura,Q68769,Corban
+Q12771,Canton of Vaud,Q57099,Corbeyrier
+Q12640,Canton of Fribourg,Q67708,Corbières
+Q11911,Canton of Berne,Q67862,Corcelles
+Q12771,Canton of Vaud,Q57101,Corcelles-le-Jorat
+Q12771,Canton of Vaud,Q57102,Corcelles-près-Concise
+Q12771,Canton of Vaud,Q57104,Corcelles-près-Payerne
+Q11911,Canton of Berne,Q66917,Corgémont
+Q12640,Canton of Fribourg,Q66487,Corminboeuf
+Q11911,Canton of Berne,Q66425,Cormoret
+Q12738,Canton of Neuchâtel,Q70479,Cornaux
+Q12755,Canton of Jura,Q68819,Cornol
+Q12771,Canton of Vaud,Q57108,Corseaux
+Q11917,Canton of Geneva,Q65643,Corsier
+Q12771,Canton of Vaud,Q57110,Corsier-sur-Vevey
+Q12738,Canton of Neuchâtel,Q70308,Cortaillod
+Q11911,Canton of Berne,Q69974,Cortébert
+Q12771,Canton of Vaud,Q57111,Cossonay
+Q12640,Canton of Fribourg,Q67714,Cottens
+Q12755,Canton of Jura,Q69852,Courchapoix
+Q12755,Canton of Jura,Q69935,Courchavon
+Q12755,Canton of Jura,Q67414,Courgenay
+Q12640,Canton of Fribourg,Q67456,Courgevaux
+Q12755,Canton of Jura,Q69,Courrendlin
+Q12755,Canton of Jura,Q70095,Courroux
+Q11911,Canton of Berne,Q69897,Court
+Q12755,Canton of Jura,Q69855,Courtedoux
+Q11911,Canton of Berne,Q65649,Courtelary
+Q12640,Canton of Fribourg,Q70042,Courtepin
+Q12755,Canton of Jura,Q67463,Courtételle
+Q12771,Canton of Vaud,Q57115,Crans
+Q834,Canton of Valais,Q688557,Crans-Montana
+Q12771,Canton of Vaud,Q57117,Crassier
+Q11911,Canton of Berne,Q68599,Crémines
+Q12640,Canton of Fribourg,Q68558,Cressier
+Q12738,Canton of Neuchâtel,Q70139,Cressier
+Q12640,Canton of Fribourg,Q67361,Crésuz
+Q12771,Canton of Vaud,Q57121,Crissier
+Q12771,Canton of Vaud,Q57122,Cronay
+Q12771,Canton of Vaud,Q70541,Croy
+Q12771,Canton of Vaud,Q68624,Cuarnens
+Q12771,Canton of Vaud,Q68834,Cuarny
+Q12771,Canton of Vaud,Q70192,Cudrefin
+Q12724,Canton of Ticino,Q68843,Cugnasco-Gerra
+Q12640,Canton of Fribourg,Q70302,Cugy
+Q12771,Canton of Vaud,Q68747,Cugy
+Q12724,Canton of Ticino,Q70148,Cureglia
+Q12771,Canton of Vaud,Q68733,Curtilles
+Q11943,Canton of Zürich,Q67949,Dachsen
+Q11943,Canton of Zürich,Q68437,Dägerlen
+Q12121,Canton of Lucerne,Q14587,Dagmersellen
+Q12771,Canton of Vaud,Q68892,Daillens
+Q12592,Canton of Nidwalden,Q64575,Dallenwil
+Q11943,Canton of Zürich,Q66755,Dällikon
+Q12724,Canton of Ticino,Q67756,Dalpe
+Q12755,Canton of Jura,Q111647468,Damphreux-Lugnez
+Q11929,Canton of Solothurn,Q65586,Däniken
+Q11943,Canton of Zürich,Q70131,Dänikon
+Q11917,Canton of Geneva,Q69471,Dardagny
+Q11911,Canton of Berne,Q65065,Därligen
+Q11911,Canton of Berne,Q65721,Därstetten
+Q11943,Canton of Zürich,Q70381,Dättlikon
+Q11925,Canton of the Grisons,Q68097,Davos
+Q12746,Canton of St. Gallen,Q64974,Degersheim
+Q11911,Canton of Berne,Q67832,Deisswil bei Münchenbuchsee
+Q11929,Canton of Solothurn,Q66142,Deitingen
+Q12755,Canton of Jura,Q63896,Delémont
+Q12640,Canton of Fribourg,Q68552,Delley-Portalban
+Q12771,Canton of Vaud,Q68875,Démoret
+Q12771,Canton of Vaud,Q68489,Denens
+Q12771,Canton of Vaud,Q68671,Denges
+Q11972,Canton of Aargau,Q64537,Densbüren
+Q11929,Canton of Solothurn,Q69143,Derendingen
+Q12755,Canton of Jura,Q68520,Develier
+Q12146,Canton of Basel-Landschaft,Q65046,Diegten
+Q11943,Canton of Zürich,Q67951,Dielsdorf
+Q11911,Canton of Berne,Q65957,Diemtigen
+Q12146,Canton of Basel-Landschaft,Q67280,Diepflingen
+Q12746,Canton of St. Gallen,Q65615,Diepoldsau
+Q12121,Canton of Lucerne,Q14565,Dierikon
+Q11911,Canton of Berne,Q67854,Diessbach bei Büren
+Q12713,Canton of Thurgau,Q67128,Diessenhofen
+Q11943,Canton of Zürich,Q64070,Dietikon
+Q11943,Canton of Zürich,Q65164,Dietlikon
+Q11972,Canton of Aargau,Q64763,Dietwil
+Q11943,Canton of Zürich,Q65795,Dinhard
+Q11972,Canton of Aargau,Q65132,Dintikon
+Q11925,Canton of the Grisons,Q68347,Disentis/Mustér
+Q12146,Canton of Basel-Landschaft,Q66590,Dittingen
+Q12771,Canton of Vaud,Q68902,Dizy
+Q11925,Canton of the Grisons,Q68266,Domat/Ems
+Q12640,Canton of Fribourg,Q67681,Domdidier
+Q11925,Canton of the Grisons,Q18411365,Domleschg
+Q12771,Canton of Vaud,Q68896,Dompierre
+Q12771,Canton of Vaud,Q70584,Donneloye
+Q12121,Canton of Lucerne,Q121062269,Doppleschwand
+Q834,Canton of Valais,Q68487,Dorénaz
+Q11943,Canton of Zürich,Q70283,Dorf
+Q12697,Canton of Schaffhausen,Q69107,Dörflingen
+Q11929,Canton of Solothurn,Q64694,Dornach
+Q11972,Canton of Aargau,Q64438,Dottikon
+Q11972,Canton of Aargau,Q64787,Döttingen
+Q11911,Canton of Berne,Q69861,Dotzigen
+Q12713,Canton of Thurgau,Q65407,Dozwil
+Q11929,Canton of Solothurn,Q240486,Drei Höfe
+Q11943,Canton of Zürich,Q64082,Dübendorf
+Q12640,Canton of Fribourg,Q70108,Düdingen
+Q12146,Canton of Basel-Landschaft,Q66736,Duggingen
+Q12771,Canton of Vaud,Q70389,Duillier
+Q11929,Canton of Solothurn,Q65978,Dulliken
+Q12771,Canton of Vaud,Q68622,Dully
+Q11943,Canton of Zürich,Q67220,Dürnten
+Q11972,Canton of Aargau,Q64979,Dürrenäsch
+Q11911,Canton of Berne,Q69819,Dürrenroth
+Q12121,Canton of Lucerne,Q14566,Ebikon
+Q12746,Canton of St. Gallen,Q66237,Ebnat-Kappel
+Q12771,Canton of Vaud,Q70714,Echallens
+Q12771,Canton of Vaud,Q68630,Echandens
+Q12640,Canton of Fribourg,Q66873,Echarlens
+Q12771,Canton of Vaud,Q68742,Echichens
+Q12771,Canton of Vaud,Q70525,Eclépens
+Q12640,Canton of Fribourg,Q70481,Ecublens
+Q12771,Canton of Vaud,Q69716,Ecublens
+Q12755,Canton of Jura,Q69924,Ederswiler
+Q11929,Canton of Solothurn,Q64275,Egerkingen
+Q11943,Canton of Zürich,Q64877,Egg
+Q11972,Canton of Aargau,Q659067,Eggenwil
+Q834,Canton of Valais,Q67486,Eggerberg
+Q12746,Canton of St. Gallen,Q66868,Eggersriet
+Q11911,Canton of Berne,Q67393,Eggiwil
+Q11943,Canton of Zürich,Q69175,Eglisau
+Q11972,Canton of Aargau,Q65155,Egliswil
+Q12713,Canton of Thurgau,Q65029,Egnach
+Q12121,Canton of Lucerne,Q14589,Egolzwil
+Q11972,Canton of Aargau,Q65294,Ehrendingen
+Q12121,Canton of Lucerne,Q7147,Eich
+Q12746,Canton of St. Gallen,Q66271,Eichberg
+Q11972,Canton of Aargau,Q66433,Eiken
+Q12433,Canton of Schwyz,Q68950,Einsiedeln
+Q834,Canton of Valais,Q70391,Eischoll
+Q834,Canton of Valais,Q67088,Eisten
+Q11943,Canton of Zürich,Q67137,Elgg
+Q11943,Canton of Zürich,Q65769,Ellikon an der Thur
+Q11943,Canton of Zürich,Q64832,Elsau
+Q834,Canton of Valais,Q68026,Embd
+Q11943,Canton of Zürich,Q65877,Embrach
+Q12121,Canton of Lucerne,Q4225,Emmen
+Q12592,Canton of Nidwalden,Q69177,Emmetten
+Q11972,Canton of Aargau,Q69438,Endingen
+Q12573,Canton of Obwalden,Q64108,Engelberg
+Q12738,Canton of Neuchâtel,Q68546,Enges
+Q11972,Canton of Aargau,Q64424,Ennetbaden
+Q12592,Canton of Nidwalden,Q64310,Ennetbürgen
+Q12592,Canton of Nidwalden,Q64599,Ennetmoos
+Q12121,Canton of Lucerne,Q14547,Entlebuch
+Q12771,Canton of Vaud,Q69252,Epalinges
+Q12771,Canton of Vaud,Q69403,Ependes
+Q11929,Canton of Solothurn,Q65597,Eppenberg-Wöschnau
+Q11911,Canton of Berne,Q67371,Epsach
+Q12146,Canton of Basel-Landschaft,Q64715,Eptingen
+Q834,Canton of Valais,Q68609,Ergisch
+Q11911,Canton of Berne,Q65744,Eriswil
+Q11911,Canton of Berne,Q64997,Eriz
+Q11911,Canton of Berne,Q69453,Erlach
+Q12713,Canton of Thurgau,Q65439,Erlen
+Q11943,Canton of Zürich,Q69203,Erlenbach
+Q11911,Canton of Berne,Q66132,Erlenbach im Simmental
+Q11972,Canton of Aargau,Q65415,Erlinsbach
+Q11929,Canton of Solothurn,Q66252,Erlinsbach
+Q12713,Canton of Thurgau,Q65127,Ermatingen
+Q12121,Canton of Lucerne,Q7115,Ermensee
+Q834,Canton of Valais,Q70347,Ernen
+Q11929,Canton of Solothurn,Q66775,Erschwil
+Q11911,Canton of Berne,Q67636,Ersigen
+Q12404,Canton of Uri,Q69642,Erstfeld
+Q12121,Canton of Lucerne,Q7092,Eschenbach
+Q12746,Canton of St. Gallen,Q66824,Eschenbach
+Q12713,Canton of Thurgau,Q65080,Eschenz
+Q11911,Canton of Berne,Q67574,Eschert
+Q12713,Canton of Thurgau,Q65026,Eschlikon
+Q12121,Canton of Lucerne,Q14550,Escholzmatt-Marbach
+Q12771,Canton of Vaud,Q68674,Essertines-sur-Rolle
+Q12771,Canton of Vaud,Q68735,Essertines-sur-Yverdon
+Q12640,Canton of Fribourg,Q28035756,Estavayer
+Q12771,Canton of Vaud,Q68739,Etagnières
+Q12771,Canton of Vaud,Q70216,Etoy
+Q12146,Canton of Basel-Landschaft,Q70012,Ettingen
+Q12121,Canton of Lucerne,Q14592,Ettiswil
+Q11929,Canton of Solothurn,Q66682,Etziken
+Q11911,Canton of Berne,Q70093,Evilard
+Q834,Canton of Valais,Q70163,Evionnaz
+Q834,Canton of Valais,Q69551,Evolène
+Q12771,Canton of Vaud,Q69287,Eysins
+Q11911,Canton of Berne,Q65487,Fahrni
+Q11972,Canton of Aargau,Q64982,Fahrwangen
+Q12755,Canton of Jura,Q67959,Fahy
+Q12724,Canton of Ticino,Q69673,Faido
+Q11925,Canton of the Grisons,Q65086,Falera
+Q11943,Canton of Zürich,Q64869,Fällanden
+Q12771,Canton of Vaud,Q70559,Faoug
+Q11911,Canton of Berne,Q68591,Farnern
+Q12771,Canton of Vaud,Q70260,Féchy
+Q11943,Canton of Zürich,Q70369,Fehraltorf
+Q11929,Canton of Solothurn,Q66765,Fehren
+Q12713,Canton of Thurgau,Q64837,Felben-Wellhausen
+Q11929,Canton of Solothurn,Q66969,Feldbrunnen-St. Niklaus
+Q11925,Canton of the Grisons,Q64961,Felsberg
+Q834,Canton of Valais,Q68033,Ferden
+Q11911,Canton of Berne,Q65886,Ferenbalm
+Q12640,Canton of Fribourg,Q66422,Ferpicloz
+Q11925,Canton of the Grisons,Q70463,Ferrera
+Q12771,Canton of Vaud,Q68500,Ferreyres
+Q12640,Canton of Fribourg,Q70311,Fétigny
+Q12640,Canton of Fribourg,Q133571724,Fétigny-Ménières
+Q11943,Canton of Zürich,Q66283,Feuerthalen
+Q12433,Canton of Schwyz,Q69654,Feusisberg
+Q12771,Canton of Vaud,Q68915,Fey
+Q11925,Canton of the Grisons,Q64643,Fideris
+Q834,Canton of Valais,Q68051,Fiesch
+Q834,Canton of Valais,Q70716,Fieschertal
+Q12771,Canton of Vaud,Q68861,Fiez
+Q834,Canton of Valais,Q68877,Finhaut
+Q11911,Canton of Berne,Q69950,Finsterhennen
+Q12121,Canton of Lucerne,Q14594,Fischbach
+Q11972,Canton of Aargau,Q64948,Fischbach-Göslikon
+Q11943,Canton of Zürich,Q65854,Fischenthal
+Q12713,Canton of Thurgau,Q65525,Fischingen
+Q11972,Canton of Aargau,Q66109,Fisibach
+Q11972,Canton of Aargau,Q64469,Fislisbach
+Q11943,Canton of Zürich,Q70367,Flaach
+Q11925,Canton of the Grisons,Q65386,Fläsch
+Q12746,Canton of St. Gallen,Q65506,Flawil
+Q11925,Canton of the Grisons,Q64800,Flerden
+Q11925,Canton of the Grisons,Q65049,Flims
+Q12404,Canton of Uri,Q69665,Flüelen
+Q12121,Canton of Lucerne,Q14552,Flühli
+Q11929,Canton of Solothurn,Q67334,Flumenthal
+Q12746,Canton of St. Gallen,Q69954,Flums
+Q11943,Canton of Zürich,Q66757,Flurlingen
+Q12771,Canton of Vaud,Q70551,Fontaines-sur-Grandson
+Q12755,Canton of Jura,Q68780,Fontenais
+Q12771,Canton of Vaud,Q70565,Forel
+Q11911,Canton of Berne,Q67775,Forst-Längenbühl
+Q12771,Canton of Vaud,Q69331,Founex
+Q12640,Canton of Fribourg,Q68562,Fräschels
+Q11911,Canton of Berne,Q10317,Fraubrunnen
+Q12713,Canton of Thurgau,Q68120,Frauenfeld
+Q11911,Canton of Berne,Q69680,Frauenkappelen
+Q12433,Canton of Schwyz,Q69780,Freienbach
+Q11943,Canton of Zürich,Q66964,Freienstein-Teufen
+Q11972,Canton of Aargau,Q64402,Freienwil
+Q11911,Canton of Berne,Q67616,Freimettigen
+Q12146,Canton of Basel-Landschaft,Q66593,Frenkendorf
+Q12640,Canton of Fribourg,Q36378,Fribourg
+Q11972,Canton of Aargau,Q66617,Frick
+Q12771,Canton of Vaud,Q68720,Froideville
+Q11911,Canton of Berne,Q66208,Frutigen
+Q11929,Canton of Solothurn,Q65312,Fulenbach
+Q11972,Canton of Aargau,Q66101,Full-Reuenthal
+Q12146,Canton of Basel-Landschaft,Q66523,Füllinsdorf
+Q834,Canton of Valais,Q70137,Fully
+Q11925,Canton of the Grisons,Q65044,Furna
+Q11925,Canton of the Grisons,Q64805,Fürstenau
+Q12697,Canton of Schaffhausen,Q66500,Gächlingen
+Q12713,Canton of Thurgau,Q64840,Gachnang
+Q12079,Canton of Appenzell Ausserrhoden,Q67171,Gais
+Q12746,Canton of St. Gallen,Q66781,Gaiserwald
+Q12433,Canton of Schwyz,Q66580,Galgenen
+Q11911,Canton of Berne,Q67241,Gals
+Q12724,Canton of Ticino,Q70234,Gambarogno
+Q834,Canton of Valais,Q70639,Gampel-Bratsch
+Q11911,Canton of Berne,Q67387,Gampelen
+Q12746,Canton of St. Gallen,Q67315,Gams
+Q11972,Canton of Aargau,Q67348,Gansingen
+Q11972,Canton of Aargau,Q64486,Gebenstorf
+Q12146,Canton of Basel-Landschaft,Q65936,Gelterkinden
+Q11972,Canton of Aargau,Q65033,Geltwil
+Q11929,Canton of Solothurn,Q66542,Gempen
+Q11917,Canton of Geneva,Q71,Geneva
+Q12771,Canton of Vaud,Q69290,Genolier
+Q11917,Canton of Geneva,Q48923,Genthod
+Q11929,Canton of Solothurn,Q65629,Gerlafingen
+Q11943,Canton of Zürich,Q66660,Geroldswil
+Q12433,Canton of Schwyz,Q64380,Gersau
+Q11911,Canton of Berne,Q67014,Gerzensee
+Q12121,Canton of Lucerne,Q7142,Geuensee
+Q12640,Canton of Fribourg,Q19843360,Gibloux
+Q12146,Canton of Basel-Landschaft,Q66741,Giebenach
+Q12771,Canton of Vaud,Q70661,Giez
+Q12640,Canton of Fribourg,Q66476,Giffers
+Q12771,Canton of Vaud,Q70383,Gilly
+Q12771,Canton of Vaud,Q70245,Gimel
+Q12771,Canton of Vaud,Q69337,Gingins
+Q12724,Canton of Ticino,Q67763,Giornico
+Q11972,Canton of Aargau,Q66986,Gipf-Oberfrick
+Q12121,Canton of Lucerne,Q14567,Gisikon
+Q12573,Canton of Obwalden,Q69248,Giswil
+Q12640,Canton of Fribourg,Q66461,Givisiez
+Q12771,Canton of Vaud,Q69315,Givrins
+Q12771,Canton of Vaud,Q69300,Gland
+Q11922,Canton of Glarus,Q63912,Glarus
+Q11922,Canton of Glarus,Q70635,Glarus Nord
+Q11922,Canton of Glarus,Q70695,Glarus Süd
+Q11943,Canton of Zürich,Q68399,Glattfelden
+Q12640,Canton of Fribourg,Q68573,Gletterens
+Q12746,Canton of St. Gallen,Q66790,Goldach
+Q12771,Canton of Vaud,Q70594,Gollion
+Q12746,Canton of St. Gallen,Q66744,Gommiswald
+Q834,Canton of Valais,Q26836831,Goms
+Q11911,Canton of Berne,Q65477,Gondiswil
+Q12094,Canton of Appenzell Innerrhoden,Q64604,Gonten
+Q11972,Canton of Aargau,Q65333,Gontenschwil
+Q12724,Canton of Ticino,Q69671,Gordola
+Q12724,Canton of Ticino,Q69797,Gorduno
+Q12404,Canton of Uri,Q69639,Göschenen
+Q12746,Canton of St. Gallen,Q69777,Gossau
+Q11943,Canton of Zürich,Q67525,Gossau
+Q12713,Canton of Thurgau,Q66302,Gottlieben
+Q12771,Canton of Vaud,Q70741,Goumoëns
+Q11911,Canton of Berne,Q67642,Graben
+Q12746,Canton of St. Gallen,Q67048,Grabs
+Q834,Canton of Valais,Q70097,Grächen
+Q12724,Canton of Ticino,Q67969,Grancia
+Q12771,Canton of Vaud,Q68638,Grancy
+Q12771,Canton of Vaud,Q70190,Grandcour
+Q12771,Canton of Vaud,Q70687,Grandevent
+Q12755,Canton of Jura,Q67982,Grandfontaine
+Q12771,Canton of Vaud,Q70199,Grandson
+Q11911,Canton of Berne,Q67029,Grandval
+Q12640,Canton of Fribourg,Q66887,Grandvillard
+Q12640,Canton of Fribourg,Q68420,Granges
+Q12640,Canton of Fribourg,Q67060,Granges-Paccot
+Q12640,Canton of Fribourg,Q69928,Grangettes
+Q11972,Canton of Aargau,Q64267,Gränichen
+Q12724,Canton of Ticino,Q69385,Gravesano
+Q11943,Canton of Zürich,Q64882,Greifensee
+Q12146,Canton of Basel-Landschaft,Q66821,Grellingen
+Q11929,Canton of Solothurn,Q68248,Grenchen
+Q12640,Canton of Fribourg,Q69885,Greng
+Q834,Canton of Valais,Q67332,Grengiols
+Q12771,Canton of Vaud,Q69285,Grens
+Q12121,Canton of Lucerne,Q14568,Greppen
+Q11929,Canton of Solothurn,Q65965,Gretzenbach
+Q834,Canton of Valais,Q69579,Grimisuat
+Q11929,Canton of Solothurn,Q66354,Grindel
+Q11911,Canton of Berne,Q64004,Grindelwald
+Q12640,Canton of Fribourg,Q67037,Grolley
+Q12640,Canton of Fribourg,Q20012496,Grolley-Ponthaux
+Q834,Canton of Valais,Q70151,Grône
+Q11925,Canton of the Grisons,Q66181,Grono
+Q11911,Canton of Berne,Q65921,Grossaffoltern
+Q12121,Canton of Lucerne,Q14600,Grossdietwil
+Q11911,Canton of Berne,Q67611,Grosshöchstetten
+Q12121,Canton of Lucerne,Q7133,Grosswangen
+Q12079,Canton of Appenzell Ausserrhoden,Q67200,Grub
+Q11943,Canton of Zürich,Q67120,Grüningen
+Q11925,Canton of the Grisons,Q64635,Grüsch
+Q12640,Canton of Fribourg,Q69600,Gruyères
+Q12771,Canton of Vaud,Q69522,Gryon
+Q11911,Canton of Berne,Q65753,Gsteig bei Gstaad
+Q11911,Canton of Berne,Q65738,Gsteigwiler
+Q11911,Canton of Berne,Q64969,Guggisberg
+Q11911,Canton of Berne,Q65560,Gündlischwand
+Q11929,Canton of Solothurn,Q66988,Günsberg
+Q11929,Canton of Solothurn,Q65851,Gunzgen
+Q11911,Canton of Berne,Q67019,Gurbrü
+Q12640,Canton of Fribourg,Q66941,Gurmels
+Q12404,Canton of Uri,Q65450,Gurtnellen
+Q11911,Canton of Berne,Q66613,Gurzelen
+Q12640,Canton of Fribourg,Q1555347,Guschelmuth
+Q11911,Canton of Berne,Q69419,Guttannen
+Q834,Canton of Valais,Q69988,Guttet-Feschel
+Q12713,Canton of Thurgau,Q66317,Güttingen
+Q11917,Canton of Geneva,Q66504,Gy
+Q11911,Canton of Berne,Q64779,Habkern
+Q11972,Canton of Aargau,Q64131,Habsburg
+Q12146,Canton of Basel-Landschaft,Q65120,Häfelfingen
+Q11943,Canton of Zürich,Q65926,Hagenbuch
+Q11929,Canton of Solothurn,Q67184,Hägendorf
+Q12746,Canton of St. Gallen,Q66087,Häggenschwil
+Q11972,Canton of Aargau,Q65286,Hägglingen
+Q11911,Canton of Berne,Q67546,Hagneck
+Q12697,Canton of Schaffhausen,Q69172,Hallau
+Q11972,Canton of Aargau,Q65291,Hallwil
+Q11929,Canton of Solothurn,Q66827,Halten
+Q11929,Canton of Solothurn,Q66399,Härkingen
+Q12121,Canton of Lucerne,Q14555,Hasle
+Q11911,Canton of Berne,Q67066,Hasle bei Burgdorf
+Q11911,Canton of Berne,Q69424,Hasliberg
+Q11929,Canton of Solothurn,Q66060,Hauenstein-Ifenthal
+Q12713,Canton of Thurgau,Q66307,Hauptwil-Gottshaus
+Q11972,Canton of Aargau,Q65497,Hausen
+Q11943,Canton of Zürich,Q65231,Hausen am Albis
+Q12640,Canton of Fribourg,Q66876,Haut-Intyamon
+Q12640,Canton of Fribourg,Q68380,Haut-Vully
+Q12755,Canton of Jura,Q70609,Haute-Ajoie
+Q12755,Canton of Jura,Q5682949,Haute-Sorne
+Q12771,Canton of Vaud,Q104776665,Hautemorges
+Q12640,Canton of Fribourg,Q67300,Hauterive
+Q12738,Canton of Neuchâtel,Q70432,Hauterive
+Q12640,Canton of Fribourg,Q662294,Hauteville
+Q11911,Canton of Berne,Q67768,Häutligen
+Q11943,Canton of Zürich,Q65129,Hedingen
+Q12713,Canton of Thurgau,Q66405,Hefenhofen
+Q12079,Canton of Appenzell Ausserrhoden,Q68315,Heiden
+Q11911,Canton of Berne,Q65485,Heiligenschwendi
+Q11911,Canton of Berne,Q65206,Heimberg
+Q11911,Canton of Berne,Q67655,Heimenhausen
+Q11911,Canton of Berne,Q67632,Heimiswil
+Q12640,Canton of Fribourg,Q68031,Heitenried
+Q11972,Canton of Aargau,Q66686,Hellikon
+Q11911,Canton of Berne,Q68603,Hellsau
+Q12746,Canton of St. Gallen,Q65631,Hemberg
+Q12697,Canton of Schaffhausen,Q66363,Hemishofen
+Q12146,Canton of Basel-Landschaft,Q66623,Hemmiken
+Q12746,Canton of St. Gallen,Q18446611,Henau
+Q11972,Canton of Aargau,Q65319,Hendschiken
+Q11943,Canton of Zürich,Q68417,Henggart
+Q12771,Canton of Vaud,Q68873,Henniez
+Q11929,Canton of Solothurn,Q66089,Herbetswil
+Q11911,Canton of Berne,Q67634,Herbligen
+Q12713,Canton of Thurgau,Q65761,Herdern
+Q834,Canton of Valais,Q69553,Hérémence
+Q12592,Canton of Nidwalden,Q570969,Hergiswil
+Q12121,Canton of Lucerne,Q14603,Hergiswil bei Willisau
+Q12079,Canton of Appenzell Ausserrhoden,Q63970,Herisau
+Q11917,Canton of Geneva,Q66200,Hermance
+Q12771,Canton of Vaud,Q68852,Hermenches
+Q11911,Canton of Berne,Q67391,Hermrigen
+Q11943,Canton of Zürich,Q69224,Herrliberg
+Q12146,Canton of Basel-Landschaft,Q66572,Hersberg
+Q11972,Canton of Aargau,Q110713110,Herznach-Ueken
+Q11911,Canton of Berne,Q67499,Herzogenbuchsee
+Q11943,Canton of Zürich,Q64967,Hettlingen
+Q12121,Canton of Lucerne,Q7153,Hildisrieden
+Q11911,Canton of Berne,Q66042,Hilterfingen
+Q11929,Canton of Solothurn,Q70044,Himmelried
+Q11911,Canton of Berne,Q67564,Hindelbank
+Q11943,Canton of Zürich,Q69383,Hinwil
+Q11972,Canton of Aargau,Q64526,Hirschthal
+Q11943,Canton of Zürich,Q65841,Hittnau
+Q12121,Canton of Lucerne,Q7114,Hitzkirch
+Q12121,Canton of Lucerne,Q7102,Hochdorf
+Q11943,Canton of Zürich,Q68410,Hochfelden
+Q11911,Canton of Berne,Q67792,Höchstetten
+Q11929,Canton of Solothurn,Q66575,Hochwald
+Q11911,Canton of Berne,Q65200,Hofstetten bei Brienz
+Q11929,Canton of Solothurn,Q70010,Hofstetten-Flüh
+Q12121,Canton of Lucerne,Q7109,Hohenrain
+Q12713,Canton of Thurgau,Q66309,Hohentannen
+Q11972,Canton of Aargau,Q65627,Holderbank
+Q11929,Canton of Solothurn,Q65856,Holderbank
+Q12146,Canton of Basel-Landschaft,Q69020,Hölstein
+Q11972,Canton of Aargau,Q65969,Holziken
+Q11911,Canton of Berne,Q69090,Homberg
+Q11943,Canton of Zürich,Q69188,Hombrechtikon
+Q12713,Canton of Thurgau,Q67205,Homburg
+Q12121,Canton of Lucerne,Q14569,Honau
+Q11943,Canton of Zürich,Q68286,Horgen
+Q11943,Canton of Zürich,Q70377,Höri
+Q12713,Canton of Thurgau,Q66195,Horn
+Q11911,Canton of Berne,Q65500,Horrenbach-Buchen
+Q11929,Canton of Solothurn,Q67343,Horriwil
+Q12121,Canton of Lucerne,Q14570,Horw
+Q12404,Canton of Uri,Q65681,Hospental
+Q11929,Canton of Solothurn,Q66982,Hubersdorf
+Q12079,Canton of Appenzell Ausserrhoden,Q69652,Hundwil
+Q11933,Canton of Zug,Q66256,Hünenberg
+Q11929,Canton of Solothurn,Q67944,Hüniken
+Q11943,Canton of Zürich,Q69367,Hüntwangen
+Q11972,Canton of Aargau,Q65696,Hunzenschwil
+Q11943,Canton of Zürich,Q65671,Hüttikon
+Q12713,Canton of Thurgau,Q65802,Hüttlingen
+Q11911,Canton of Berne,Q69619,Huttwil
+Q12713,Canton of Thurgau,Q65826,Hüttwilen
+Q834,Canton of Valais,Q69535,Icogne
+Q11911,Canton of Berne,Q67780,Iffwil
+Q11925,Canton of the Grisons,Q15056824,Ilanz/Glion
+Q12433,Canton of Schwyz,Q65453,Illgau
+Q11943,Canton of Zürich,Q64873,Illnau-Effretikon
+Q834,Canton of Valais,Q67789,Inden
+Q12433,Canton of Schwyz,Q66330,Ingenbohl
+Q11911,Canton of Berne,Q67646,Inkwil
+Q12433,Canton of Schwyz,Q66234,Innerthal
+Q11911,Canton of Berne,Q69231,Innertkirchen
+Q11911,Canton of Berne,Q69487,Ins
+Q11911,Canton of Berne,Q68103,Interlaken
+Q12121,Canton of Lucerne,Q7097,Inwil
+Q11911,Canton of Berne,Q69460,Ipsach
+Q11911,Canton of Berne,Q64760,Iseltwald
+Q12404,Canton of Uri,Q65573,Isenthal
+Q834,Canton of Valais,Q69577,Isérables
+Q11972,Canton of Aargau,Q64929,Islisberg
+Q12724,Canton of Ticino,Q69804,Isone
+Q12724,Canton of Ticino,Q69101,Isorno
+Q12146,Canton of Basel-Landschaft,Q66537,Itingen
+Q11911,Canton of Berne,Q69690,Ittigen
+Q11911,Canton of Berne,Q66585,Jaberg
+Q12640,Canton of Fribourg,Q66911,Jaun
+Q11911,Canton of Berne,Q10341,Jegenstorf
+Q11925,Canton of the Grisons,Q64555,Jenaz
+Q11925,Canton of the Grisons,Q65404,Jenins
+Q11911,Canton of Berne,Q66943,Jens
+Q11972,Canton of Aargau,Q64957,Jonen
+Q12771,Canton of Vaud,Q69583,Jongny
+Q12746,Canton of St. Gallen,Q65816,Jonschwil
+Q12771,Canton of Vaud,Q70701,Jorat-Menthue
+Q12771,Canton of Vaud,Q19544878,Jorat-Mézières
+Q12771,Canton of Vaud,Q70243,Jouxtens-Mézery
+Q12771,Canton of Vaud,Q70490,Juriens
+Q11917,Canton of Geneva,Q65538,Jussy
+Q11972,Canton of Aargau,Q69048,Kaiseraugst
+Q11972,Canton of Aargau,Q67094,Kaiserstuhl
+Q11972,Canton of Aargau,Q67904,Kaisten
+Q11972,Canton of Aargau,Q65052,Kallern
+Q11911,Canton of Berne,Q66482,Kallnach
+Q12746,Canton of St. Gallen,Q66786,Kaltbrunn
+Q11929,Canton of Solothurn,Q67929,Kammersrohr
+Q11911,Canton of Berne,Q65540,Kandergrund
+Q11911,Canton of Berne,Q66218,Kandersteg
+Q12146,Canton of Basel-Landschaft,Q65837,Känerkinden
+Q11929,Canton of Solothurn,Q65575,Kappel
+Q11943,Canton of Zürich,Q64589,Kappel am Albis
+Q11911,Canton of Berne,Q65924,Kappelen
+Q11911,Canton of Berne,Q66655,Kaufdorf
+Q11911,Canton of Berne,Q68274,Kehrsatz
+Q12713,Canton of Thurgau,Q65777,Kemmental
+Q11911,Canton of Berne,Q67618,Kernenried
+Q12573,Canton of Obwalden,Q67159,Kerns
+Q12640,Canton of Fribourg,Q69871,Kerzers
+Q12713,Canton of Thurgau,Q69413,Kesswil
+Q11929,Canton of Solothurn,Q66084,Kestenholz
+Q11929,Canton of Solothurn,Q64533,Kienberg
+Q11911,Canton of Berne,Q66381,Kiesen
+Q12146,Canton of Basel-Landschaft,Q66811,Kilchberg
+Q11943,Canton of Zürich,Q66633,Kilchberg
+Q11972,Canton of Aargau,Q64547,Killwangen
+Q834,Canton of Valais,Q67691,Kippel
+Q11911,Canton of Berne,Q66463,Kirchberg
+Q12746,Canton of St. Gallen,Q64860,Kirchberg
+Q11911,Canton of Berne,Q65895,Kirchdorf
+Q11972,Canton of Aargau,Q64453,Kirchleerau
+Q11911,Canton of Berne,Q69688,Kirchlindach
+Q11943,Canton of Zürich,Q68413,Kleinandelfingen
+Q12640,Canton of Fribourg,Q69905,Kleinbösingen
+Q11929,Canton of Solothurn,Q66173,Kleinlützel
+Q11972,Canton of Aargau,Q67135,Klingnau
+Q11925,Canton of the Grisons,Q68236,Klosters
+Q11943,Canton of Zürich,Q68165,Kloten
+Q11943,Canton of Zürich,Q66328,Knonau
+Q12121,Canton of Lucerne,Q7137,Knutwil
+Q11972,Canton of Aargau,Q69441,Koblenz AG
+Q11972,Canton of Aargau,Q68106,Kölliken
+Q11911,Canton of Berne,Q64058,Köniz
+Q11911,Canton of Berne,Q66211,Konolfingen
+Q11911,Canton of Berne,Q66668,Koppigen
+Q12713,Canton of Thurgau,Q65830,Kradolf-Schönenberg
+Q11911,Canton of Berne,Q65953,Krattigen
+Q11911,Canton of Berne,Q65981,Krauchthal
+Q12713,Canton of Thurgau,Q63905,Kreuzlingen
+Q11911,Canton of Berne,Q67022,Kriechenwil
+Q11929,Canton of Solothurn,Q65213,Kriegstetten
+Q12121,Canton of Lucerne,Q14571,Kriens
+Q11925,Canton of the Grisons,Q64639,Küblis
+Q11972,Canton of Aargau,Q64247,Künten
+Q11943,Canton of Zürich,Q69216,Küsnacht
+Q12433,Canton of Schwyz,Q64183,Küssnacht
+Q11972,Canton of Aargau,Q65007,Küttigen
+Q12771,Canton of Vaud,Q69520,L'Abbaye
+Q12771,Canton of Vaud,Q70597,L'Abergement
+Q12771,Canton of Vaud,Q68387,L'Isle
+Q12755,Canton of Jura,Q70511,La Baroche
+Q12738,Canton of Neuchâtel,Q68838,La Brévine
+Q12640,Canton of Fribourg,Q66935,La Brillaz
+Q12771,Canton of Vaud,Q52701,La Chaux (Cossonay)
+Q12738,Canton of Neuchâtel,Q68124,La Chaux-de-Fonds
+Q12738,Canton of Neuchâtel,Q70436,La Chaux-du-Milieu
+Q12738,Canton of Neuchâtel,Q68526,La Côte-aux-Fées
+Q11911,Canton of Berne,Q69879,La Ferrière
+Q12738,Canton of Neuchâtel,Q30743849,La Grande Béroche
+Q11911,Canton of Berne,Q69476,La Neuveville
+Q12771,Canton of Vaud,Q70549,La Praz
+Q11925,Canton of the Grisons,Q65637,La Punt Chamues-ch
+Q12771,Canton of Vaud,Q69309,La Rippe
+Q12640,Canton of Fribourg,Q67686,La Roche
+Q12738,Canton of Neuchâtel,Q68532,La Sagne
+Q12771,Canton of Vaud,Q70210,La Sarraz
+Q12640,Canton of Fribourg,Q24771,La Sonnaz
+Q12738,Canton of Neuchâtel,Q70262,La Tène
+Q12771,Canton of Vaud,Q69721,La Tour-de-Peilz
+Q12771,Canton of Vaud,Q133572062,La Vallée de Joux
+Q12640,Canton of Fribourg,Q67324,La Verrerie
+Q11925,Canton of the Grisons,Q69606,Laax
+Q12433,Canton of Schwyz,Q67100,Lachen
+Q11917,Canton of Geneva,Q69848,Laconnex
+Q12755,Canton of Jura,Q68079,Lajoux
+Q834,Canton of Valais,Q70169,Lalden
+Q12724,Canton of Ticino,Q70030,Lamone
+Q12146,Canton of Basel-Landschaft,Q64724,Lampenberg
+Q11917,Canton of Geneva,Q64065,Lancy
+Q11911,Canton of Berne,Q67809,Landiswil
+Q11925,Canton of the Grisons,Q70631,Landquart
+Q12146,Canton of Basel-Landschaft,Q64808,Langenbruck
+Q11929,Canton of Solothurn,Q66984,Langendorf
+Q11911,Canton of Berne,Q69726,Langenthal
+Q11943,Canton of Zürich,Q65347,Langnau am Albis
+Q11911,Canton of Berne,Q66300,Langnau im Emmental
+Q12713,Canton of Thurgau,Q66312,Langrickenbach
+Q11925,Canton of the Grisons,Q65104,Lantsch/Lenz
+Q12738,Canton of Neuchâtel,Q123995545,Laténa
+Q11911,Canton of Berne,Q65903,Lauenen
+Q12433,Canton of Schwyz,Q69627,Lauerz
+Q12146,Canton of Basel-Landschaft,Q64719,Läufelfingen
+Q12146,Canton of Basel-Landschaft,Q68363,Laufen
+Q11943,Canton of Zürich,Q66336,Laufen-Uhwiesen
+Q11972,Canton of Aargau,Q69191,Laufenburg
+Q11911,Canton of Berne,Q67112,Laupen
+Q11929,Canton of Solothurn,Q66407,Laupersdorf
+Q11911,Canton of Berne,Q67238,Lauperswil
+Q12771,Canton of Vaud,Q807,Lausanne
+Q12146,Canton of Basel-Landschaft,Q66733,Lausen
+Q11911,Canton of Berne,Q64011,Lauterbrunnen
+Q12146,Canton of Basel-Landschaft,Q65117,Lauwil
+Q12724,Canton of Ticino,Q69684,Lavertezzo
+Q12771,Canton of Vaud,Q70250,Lavey-Morcles
+Q12771,Canton of Vaud,Q68756,Lavigny
+Q12724,Canton of Ticino,Q68005,Lavizzara
+Q834,Canton of Valais,Q70363,Lax
+Q12755,Canton of Jura,Q68502,Le Bémont
+Q12738,Canton of Neuchâtel,Q70456,Le Cerneux-Péquignot
+Q12640,Canton of Fribourg,Q68480,Le Châtelard
+Q12771,Canton of Vaud,Q52743,Le Chenit
+Q12640,Canton of Fribourg,Q68538,Le Flon
+Q12640,Canton of Fribourg,Q66436,Le Glèbe
+Q11917,Canton of Geneva,Q69714,Le Grand-Saconnex
+Q12738,Canton of Neuchâtel,Q70204,Le Landeron
+Q12771,Canton of Vaud,Q69546,Le Lieu
+Q12738,Canton of Neuchâtel,Q64093,Le Locle
+Q12771,Canton of Vaud,Q70221,Le Mont-sur-Lausanne
+Q12640,Canton of Fribourg,Q66480,Le Mouret
+Q12755,Canton of Jura,Q68522,Le Noirmont
+Q12640,Canton of Fribourg,Q69918,Le Pâquier
+Q12771,Canton of Vaud,Q69333,Le Vaud
+Q11972,Canton of Aargau,Q66347,Leibstadt
+Q11972,Canton of Aargau,Q65975,Leimbach
+Q11911,Canton of Berne,Q65300,Leissigen
+Q12724,Canton of Ticino,Q130372861,Lema
+Q11972,Canton of Aargau,Q69429,Lengnau
+Q11911,Canton of Berne,Q66473,Lengnau
+Q12713,Canton of Thurgau,Q66289,Lengwil
+Q11911,Canton of Berne,Q65152,Lenk
+Q834,Canton of Valais,Q70361,Lens
+Q11972,Canton of Aargau,Q69433,Lenzburg
+Q12755,Canton of Jura,Q70232,Les Bois
+Q12755,Canton of Jura,Q68086,Les Breuleux
+Q12771,Canton of Vaud,Q57090,Les Clées
+Q12755,Canton of Jura,Q70411,Les Enfers
+Q12755,Canton of Jura,Q69976,Les Genevez
+Q12640,Canton of Fribourg,Q67243,Les Montets
+Q12738,Canton of Neuchâtel,Q68540,Les Planchettes
+Q12738,Canton of Neuchâtel,Q68617,Les Ponts-de-Martel
+Q12738,Canton of Neuchâtel,Q69807,Les Verrières
+Q11972,Canton of Aargau,Q66718,Leuggern
+Q834,Canton of Valais,Q69590,Leuk
+Q834,Canton of Valais,Q69436,Leukerbad
+Q11972,Canton of Aargau,Q65595,Leutwil
+Q11911,Canton of Berne,Q67376,Leuzigen
+Q12771,Canton of Vaud,Q69610,Leysin
+Q834,Canton of Valais,Q68849,Leytron
+Q12746,Canton of St. Gallen,Q69274,Lichtensteig
+Q834,Canton of Valais,Q68899,Liddes
+Q12146,Canton of Basel-Landschaft,Q65060,Liedertswil
+Q12146,Canton of Basel-Landschaft,Q67265,Liesberg
+Q12146,Canton of Basel-Landschaft,Q68972,Liestal
+Q11911,Canton of Berne,Q69495,Ligerz
+Q12771,Canton of Vaud,Q70503,Lignerolle
+Q12738,Canton of Neuchâtel,Q68706,Lignières
+Q11943,Canton of Zürich,Q65759,Lindau
+Q11911,Canton of Berne,Q67608,Linden
+Q12724,Canton of Ticino,Q67989,Linescio
+Q12724,Canton of Ticino,Q11935,Locarno
+Q12697,Canton of Schaffhausen,Q69629,Lohn
+Q11929,Canton of Solothurn,Q67006,Lohn-Ammannsegg
+Q12697,Canton of Schaffhausen,Q66373,Löhningen
+Q12713,Canton of Thurgau,Q65014,Lommis
+Q11929,Canton of Solothurn,Q66971,Lommiswil
+Q12771,Canton of Vaud,Q68068,Lonay
+Q12771,Canton of Vaud,Q70257,Longirod
+Q12724,Canton of Ticino,Q67116,Losone
+Q11925,Canton of the Grisons,Q65115,Lostallo
+Q11929,Canton of Solothurn,Q65421,Lostorf
+Q11911,Canton of Berne,Q66846,Lotzwil
+Q12771,Canton of Vaud,Q68754,Lovatens
+Q11911,Canton of Berne,Q67591,Loveresse
+Q12771,Canton of Vaud,Q70110,Lucens
+Q12121,Canton of Lucerne,Q4191,Lucerne
+Q11943,Canton of Zürich,Q67912,Lufingen
+Q12724,Canton of Ticino,Q7024,Lugano
+Q12771,Canton of Vaud,Q68690,Luins
+Q12640,Canton of Fribourg,Q70493,Lully
+Q12771,Canton of Vaud,Q68930,Lully
+Q12724,Canton of Ticino,Q67670,Lumino
+Q11925,Canton of the Grisons,Q1877273,Lumnezia
+Q12573,Canton of Obwalden,Q64292,Lungern
+Q11972,Canton of Aargau,Q65336,Lupfig
+Q12146,Canton of Basel-Landschaft,Q66506,Lupsingen
+Q11911,Canton of Berne,Q69491,Lüscherz
+Q12771,Canton of Vaud,Q70586,Lussery-Villars
+Q11929,Canton of Solothurn,Q1686296,Lüsslingen-Nennigkofen
+Q12771,Canton of Vaud,Q68737,Lussy-sur-Morges
+Q11929,Canton of Solothurn,Q66839,Luterbach
+Q11929,Canton of Solothurn,Q67931,Lüterkofen-Ichertswil
+Q12121,Canton of Lucerne,Q14605,Luthern
+Q12746,Canton of St. Gallen,Q66857,Lütisburg
+Q12771,Canton of Vaud,Q69697,Lutry
+Q11911,Canton of Berne,Q66017,Lütschental
+Q11911,Canton of Berne,Q67826,Lützelflüh
+Q12079,Canton of Appenzell Ausserrhoden,Q67178,Lutzenberg
+Q11925,Canton of the Grisons,Q65296,Luzein
+Q11911,Canton of Berne,Q69512,Lyss
+Q11911,Canton of Berne,Q67593,Lyssach
+Q11911,Canton of Berne,Q67628,Madiswil
+Q11925,Canton of the Grisons,Q66638,Madulain
+Q11972,Canton of Aargau,Q66567,Magden
+Q11972,Canton of Aargau,Q64551,Mägenwil
+Q12724,Canton of Ticino,Q67996,Maggia
+Q12724,Canton of Ticino,Q70159,Magliaso
+Q11925,Canton of the Grisons,Q64178,Maienfeld
+Q12146,Canton of Basel-Landschaft,Q66323,Maisprach
+Q11925,Canton of the Grisons,Q69053,Malans
+Q12121,Canton of Lucerne,Q14572,Malters
+Q12713,Canton of Thurgau,Q69956,Mammern
+Q11972,Canton of Aargau,Q66074,Mandach
+Q11943,Canton of Zürich,Q64627,Männedorf
+Q12724,Canton of Ticino,Q67876,Manno
+Q12771,Canton of Vaud,Q68640,Maracon
+Q12746,Canton of St. Gallen,Q67900,Marbach
+Q12771,Canton of Vaud,Q68647,Marchissy
+Q12640,Canton of Fribourg,Q65891,Marly
+Q12640,Canton of Fribourg,Q67075,Marsens
+Q12713,Canton of Thurgau,Q64992,Märstetten
+Q11943,Canton of Zürich,Q67213,Marthalen
+Q834,Canton of Valais,Q68956,Martigny
+Q834,Canton of Valais,Q68871,Martigny-Combe
+Q11943,Canton of Zürich,Q64977,Maschwanden
+Q11925,Canton of the Grisons,Q64916,Masein
+Q12724,Canton of Ticino,Q67055,Massagno
+Q834,Canton of Valais,Q70184,Massongex
+Q12640,Canton of Fribourg,Q70427,Massonnens
+Q12771,Canton of Vaud,Q68752,Mathod
+Q12640,Canton of Fribourg,Q66419,Matran
+Q11911,Canton of Berne,Q65757,Matten bei Interlaken
+Q11911,Canton of Berne,Q67839,Mattstetten
+Q11929,Canton of Solothurn,Q66352,Matzendorf
+Q12713,Canton of Thurgau,Q64994,Matzingen
+Q12771,Canton of Vaud,Q70580,Mauborget
+Q12121,Canton of Lucerne,Q7136,Mauensee
+Q11943,Canton of Zürich,Q64857,Maur
+Q12771,Canton of Vaud,Q70572,Mauraz
+Q11925,Canton of the Grisons,Q64925,Medel
+Q12121,Canton of Lucerne,Q14573,Meggen
+Q11911,Canton of Berne,Q67422,Meienried
+Q12121,Canton of Lucerne,Q14574,Meierskappel
+Q11911,Canton of Berne,Q67294,Meikirch
+Q11943,Canton of Zürich,Q68261,Meilen
+Q11917,Canton of Geneva,Q69845,Meinier
+Q11911,Canton of Berne,Q69914,Meinisberg
+Q11911,Canton of Berne,Q64123,Meiringen
+Q11972,Canton of Aargau,Q65316,Meisterschwanden
+Q11911,Canton of Berne,Q66879,Melchnau
+Q12724,Canton of Ticino,Q69981,Melide
+Q11972,Canton of Aargau,Q66047,Mellikon
+Q11972,Canton of Aargau,Q64216,Mellingen
+Q12746,Canton of St. Gallen,Q67027,Mels
+Q11929,Canton of Solothurn,Q66357,Meltingen
+Q12724,Canton of Ticino,Q69041,Mendrisio
+Q12640,Canton of Fribourg,Q68709,Ménières
+Q11972,Canton of Aargau,Q65309,Menziken
+Q11933,Canton of Zug,Q66050,Menzingen
+Q12121,Canton of Lucerne,Q14607,Menznau
+Q11972,Canton of Aargau,Q64755,Merenschwand
+Q12724,Canton of Ticino,Q68772,Mergoscia
+Q12697,Canton of Schaffhausen,Q69649,Merishausen
+Q12755,Canton of Jura,Q68509,Mervelier
+Q11911,Canton of Berne,Q70293,Merzligen
+Q11925,Canton of the Grisons,Q64617,Mesocco
+Q11929,Canton of Solothurn,Q67215,Messen
+Q11972,Canton of Aargau,Q70606,Mettauertal
+Q12755,Canton of Jura,Q68017,Mettembert
+Q11943,Canton of Zürich,Q65547,Mettmenstetten
+Q11929,Canton of Solothurn,Q70025,Metzerlen-Mariastein
+Q12771,Canton of Vaud,Q70655,Mex
+Q12640,Canton of Fribourg,Q68662,Meyriez
+Q11917,Canton of Geneva,Q68230,Meyrin
+Q12640,Canton of Fribourg,Q70637,Mézières
+Q12724,Canton of Ticino,Q70124,Mezzovico-Vira
+Q12771,Canton of Vaud,Q69329,Mies
+Q12738,Canton of Neuchâtel,Q251727,Milvignes
+Q12724,Canton of Ticino,Q69065,Minusio
+Q11911,Canton of Berne,Q67621,Mirchel
+Q12640,Canton of Fribourg,Q67326,Misery-Courtion
+Q12771,Canton of Vaud,Q70679,Missy
+Q12724,Canton of Ticino,Q362761,Moghegno
+Q11972,Canton of Aargau,Q69126,Möhlin
+Q12771,Canton of Vaud,Q68758,Moiry
+Q12771,Canton of Vaud,Q70553,Mollens
+Q12771,Canton of Vaud,Q70568,Molondin
+Q11943,Canton of Zürich,Q66747,Mönchaltorf
+Q12771,Canton of Vaud,Q70547,Mont-la-Ville
+Q834,Canton of Valais,Q70704,Mont-Noble
+Q12771,Canton of Vaud,Q68762,Mont-sur-Rolle
+Q11911,Canton of Berne,Q66431,Mont-Tramelan
+Q12640,Canton of Fribourg,Q19843359,Mont-Vully
+Q12640,Canton of Fribourg,Q67683,Montagny
+Q12771,Canton of Vaud,Q68669,Montagny-près-Yverdon
+Q12771,Canton of Vaud,Q585496,Montanaire
+Q12771,Canton of Vaud,Q68653,Montcherand
+Q12724,Canton of Ticino,Q70075,Monte Carasso
+Q12724,Canton of Ticino,Q70633,Monteceneri
+Q12640,Canton of Fribourg,Q70397,Montet
+Q12640,Canton of Fribourg,Q1946507,Montévraz
+Q12755,Canton of Jura,Q68081,Montfaucon
+Q12755,Canton of Jura,Q689869,Montfavergier
+Q11972,Canton of Aargau,Q66817,Mönthal
+Q834,Canton of Valais,Q64051,Monthey
+Q12771,Canton of Vaud,Q70731,Montilliez
+Q12755,Canton of Jura,Q668226,Montmelon
+Q12771,Canton of Vaud,Q70617,Montpreveyres
+Q12771,Canton of Vaud,Q69354,Montreux
+Q12771,Canton of Vaud,Q68626,Montricher
+Q11972,Canton of Aargau,Q64398,Moosleerau
+Q11911,Canton of Berne,Q67552,Moosseedorf
+Q12724,Canton of Ticino,Q70143,Morbio Inferiore
+Q12724,Canton of Ticino,Q668726,Morbio Superiore
+Q12724,Canton of Ticino,Q68224,Morcote
+Q834,Canton of Valais,Q70643,Mörel-Filet
+Q12771,Canton of Vaud,Q69401,Morges
+Q11911,Canton of Berne,Q69467,Mörigen
+Q11972,Canton of Aargau,Q65227,Möriken-Wildegg
+Q12640,Canton of Fribourg,Q1948213,Morlens
+Q12640,Canton of Fribourg,Q67081,Morlon
+Q12771,Canton of Vaud,Q68940,Morrens
+Q12433,Canton of Schwyz,Q67050,Morschach
+Q12746,Canton of St. Gallen,Q66334,Mörschwil
+Q12746,Canton of St. Gallen,Q65775,Mosnang
+Q12771,Canton of Vaud,Q70202,Moudon
+Q12755,Canton of Jura,Q67157,Moutier
+Q12755,Canton of Jura,Q68511,Movelier
+Q12724,Canton of Ticino,Q287585,Muggio
+Q11972,Canton of Aargau,Q64985,Muhen
+Q11972,Canton of Aargau,Q64516,Mühlau
+Q11911,Canton of Berne,Q67278,Mühleberg
+Q12713,Canton of Thurgau,Q65471,Müllheim
+Q11972,Canton of Aargau,Q65325,Mülligen
+Q11929,Canton of Solothurn,Q65071,Mümliswil-Ramiswil
+Q11972,Canton of Aargau,Q66293,Mumpf
+Q11911,Canton of Berne,Q69071,Münchenbuchsee
+Q12146,Canton of Basel-Landschaft,Q69030,Münchenstein
+Q11911,Canton of Berne,Q659790,Münchenwiler
+Q11972,Canton of Aargau,Q70379,Münchwilen
+Q12713,Canton of Thurgau,Q69704,Münchwilen
+Q11925,Canton of the Grisons,Q70669,Mundaun
+Q11911,Canton of Berne,Q69783,Münsingen
+Q834,Canton of Valais,Q69632,Münster-Geschinen
+Q12713,Canton of Thurgau,Q69233,Münsterlingen
+Q12640,Canton of Fribourg,Q68665,Muntelier
+Q11925,Canton of the Grisons,Q99519699,Muntogna da Schons
+Q11911,Canton of Berne,Q69945,Müntschemier
+Q12746,Canton of St. Gallen,Q67044,Muolen
+Q12433,Canton of Schwyz,Q66069,Muotathal
+Q12724,Canton of Ticino,Q69961,Muralto
+Q11972,Canton of Aargau,Q64478,Murgenthal
+Q11972,Canton of Aargau,Q69011,Muri
+Q11911,Canton of Berne,Q69765,Muri bei Bern
+Q12755,Canton of Jura,Q68506,Muriaux
+Q12640,Canton of Fribourg,Q68283,Murten
+Q12771,Canton of Vaud,Q68925,Mutrux
+Q12146,Canton of Basel-Landschaft,Q66191,Muttenz
+Q12724,Canton of Ticino,Q68796,Muzzano
+Q834,Canton of Valais,Q67040,Naters
+Q12121,Canton of Lucerne,Q14610,Nebikon
+Q12746,Canton of St. Gallen,Q68864,Neckertal
+Q11943,Canton of Zürich,Q68395,Neerach
+Q11943,Canton of Zürich,Q65040,Neftenbach
+Q12724,Canton of Ticino,Q70038,Neggio
+Q834,Canton of Valais,Q69540,Nendaz
+Q12146,Canton of Basel-Landschaft,Q66401,Nenzlingen
+Q12746,Canton of St. Gallen,Q70720,Nesslau
+Q12738,Canton of Neuchâtel,Q69345,Neuchâtel
+Q11929,Canton of Solothurn,Q66772,Neuendorf
+Q11911,Canton of Berne,Q66125,Neuenegg
+Q11972,Canton of Aargau,Q64461,Neuenhof
+Q12121,Canton of Lucerne,Q7128,Neuenkirch
+Q12697,Canton of Schaffhausen,Q69372,Neuhausen am Rheinfall
+Q11933,Canton of Zug,Q65986,Neuheim
+Q12713,Canton of Thurgau,Q65020,Neunforn
+Q12697,Canton of Schaffhausen,Q67114,Neunkirch
+Q12640,Canton of Fribourg,Q66466,Neyruz
+Q11911,Canton of Berne,Q13209,Nidau
+Q11911,Canton of Berne,Q69168,Niederbipp
+Q11929,Canton of Solothurn,Q65609,Niederbuchsiten
+Q12746,Canton of St. Gallen,Q66266,Niederbüren
+Q12146,Canton of Basel-Landschaft,Q64710,Niederdorf
+Q834,Canton of Valais,Q70161,Niedergesteln
+Q11943,Canton of Zürich,Q67920,Niederglatt
+Q11929,Canton of Solothurn,Q65009,Niedergösgen
+Q11943,Canton of Zürich,Q67042,Niederhasli
+Q12746,Canton of St. Gallen,Q66714,Niederhelfenschwil
+Q11911,Canton of Berne,Q67657,Niederhünigen
+Q11972,Canton of Aargau,Q64732,Niederlenz
+Q11911,Canton of Berne,Q66148,Niedermuhlern
+Q11911,Canton of Berne,Q67785,Niederönz
+Q11911,Canton of Berne,Q66134,Niederried bei Interlaken
+Q11911,Canton of Berne,Q67367,Niederried bei Kallnach
+Q11972,Canton of Aargau,Q64465,Niederrohrdorf
+Q834,Canton of Valais,Q70357,Niederwald
+Q11943,Canton of Zürich,Q66411,Niederweningen
+Q11972,Canton of Aargau,Q65660,Niederwil
+Q834,Canton of Valais,Q99519702,Noble-Contrée
+Q11911,Canton of Berne,Q67468,Nods
+Q12121,Canton of Lucerne,Q7131,Nottwil
+Q12771,Canton of Vaud,Q70649,Novalles
+Q12724,Canton of Ticino,Q67743,Novazzano
+Q12771,Canton of Vaud,Q70005,Noville
+Q11929,Canton of Solothurn,Q70061,Nuglar-St. Pantaleon
+Q11929,Canton of Solothurn,Q64697,Nunningen
+Q11943,Canton of Zürich,Q67898,Nürensdorf
+Q12146,Canton of Basel-Landschaft,Q66545,Nusshof
+Q12640,Canton of Fribourg,Q70323,Nuvilly
+Q12771,Canton of Vaud,Q64027,Nyon
+Q11933,Canton of Zug,Q65017,Oberägeri
+Q11911,Canton of Berne,Q65883,Oberbalm
+Q11911,Canton of Berne,Q70271,Oberbipp
+Q11929,Canton of Solothurn,Q67008,Oberbuchsiten
+Q12746,Canton of St. Gallen,Q66670,Oberbüren
+Q11911,Canton of Berne,Q67860,Oberburg
+Q11911,Canton of Berne,Q67582,Oberdiessbach
+Q12146,Canton of Basel-Landschaft,Q64821,Oberdorf
+Q12592,Canton of Nidwalden,Q67154,Oberdorf
+Q11929,Canton of Solothurn,Q70237,Oberdorf
+Q12094,Canton of Appenzell Innerrhoden,Q69407,Oberegg
+Q11972,Canton of Aargau,Q689556,Oberehrendingen
+Q11943,Canton of Zürich,Q65512,Oberembrach
+Q834,Canton of Valais,Q67254,Oberems
+Q11943,Canton of Zürich,Q69963,Oberengstringen
+Q11972,Canton of Aargau,Q64990,Oberentfelden
+Q11929,Canton of Solothurn,Q66136,Obergerlafingen
+Q11943,Canton of Zürich,Q70022,Oberglatt
+Q834,Canton of Valais,Q70614,Obergoms
+Q11929,Canton of Solothurn,Q65849,Obergösgen
+Q12697,Canton of Schaffhausen,Q66648,Oberhallau
+Q12746,Canton of St. Gallen,Q66958,Oberhelfenschwil
+Q11972,Canton of Aargau,Q66996,Oberhof
+Q11911,Canton of Berne,Q66611,Oberhofen am Thunersee
+Q11911,Canton of Berne,Q67805,Oberhünigen
+Q12433,Canton of Schwyz,Q66552,Oberiberg
+Q12121,Canton of Lucerne,Q7135,Oberkirch
+Q11972,Canton of Aargau,Q65426,Oberkulm
+Q11911,Canton of Berne,Q65481,Oberlangenegg
+Q11972,Canton of Aargau,Q64245,Oberlunkhofen
+Q11972,Canton of Aargau,Q66287,Obermumpf
+Q11911,Canton of Berne,Q66000,Oberried am Brienzersee
+Q11943,Canton of Zürich,Q65528,Oberrieden
+Q12746,Canton of St. Gallen,Q65263,Oberriet
+Q11972,Canton of Aargau,Q64496,Oberrohrdorf
+Q11972,Canton of Aargau,Q64771,Oberrüti
+Q11925,Canton of the Grisons,Q21051027,Obersaxen Mundaun
+Q11972,Canton of Aargau,Q64541,Obersiggenthal
+Q11911,Canton of Berne,Q67503,Oberthal
+Q12746,Canton of St. Gallen,Q66557,Oberuzwil
+Q11943,Canton of Zürich,Q70264,Oberweningen
+Q12146,Canton of Basel-Landschaft,Q69724,Oberwil
+Q11911,Canton of Berne,Q67558,Oberwil bei Büren
+Q11911,Canton of Berne,Q66778,Oberwil im Simmental
+Q11972,Canton of Aargau,Q65646,Oberwil-Lieli
+Q11943,Canton of Zürich,Q65942,Obfelden
+Q11911,Canton of Berne,Q67857,Ochlenberg
+Q11929,Canton of Solothurn,Q66104,Oekingen
+Q11929,Canton of Solothurn,Q65846,Oensingen
+Q11911,Canton of Berne,Q67770,Oeschenbach
+Q11972,Canton of Aargau,Q70085,Oeschgen
+Q11943,Canton of Zürich,Q67354,Oetwil am See
+Q11943,Canton of Zürich,Q66414,Oetwil an der Limmat
+Q11972,Canton of Aargau,Q68220,Oftringen
+Q12771,Canton of Vaud,Q68908,Ogens
+Q12771,Canton of Vaud,Q70115,Ollon
+Q11972,Canton of Aargau,Q66511,Olsberg
+Q11929,Canton of Solothurn,Q68129,Olten
+Q12146,Canton of Basel-Landschaft,Q66095,Oltingen
+Q11917,Canton of Geneva,Q68240,Onex
+Q12771,Canton of Vaud,Q70588,Onnens
+Q12724,Canton of Ticino,Q67664,Onsernone
+Q11943,Canton of Zürich,Q64224,Opfikon
+Q12771,Canton of Vaud,Q70663,Oppens
+Q11911,Canton of Berne,Q67659,Oppligen
+Q12771,Canton of Vaud,Q68213,Orbe
+Q12771,Canton of Vaud,Q70561,Orges
+Q12724,Canton of Ticino,Q70334,Origlio
+Q12146,Canton of Basel-Landschaft,Q67918,Ormalingen
+Q12771,Canton of Vaud,Q70227,Ormont-Dessous
+Q12771,Canton of Vaud,Q70082,Ormont-Dessus
+Q12771,Canton of Vaud,Q68917,Orny
+Q12771,Canton of Vaud,Q70734,Oron
+Q11911,Canton of Berne,Q69227,Orpund
+Q12724,Canton of Ticino,Q68813,Orselina
+Q834,Canton of Valais,Q70206,Orsières
+Q11911,Canton of Berne,Q67016,Orvin
+Q12771,Canton of Vaud,Q70667,Orzens
+Q11943,Canton of Zürich,Q68393,Ossingen
+Q11911,Canton of Berne,Q69682,Ostermundigen
+Q11943,Canton of Zürich,Q66156,Otelfingen
+Q11972,Canton of Aargau,Q65124,Othmarsingen
+Q11943,Canton of Zürich,Q67513,Ottenbach
+Q12771,Canton of Vaud,Q70651,Oulens-sous-Echallens
+Q12771,Canton of Vaud,Q68840,Pailly
+Q12724,Canton of Ticino,Q680134,Pambio-Noranco
+Q12724,Canton of Ticino,Q68205,Paradiso
+Q12771,Canton of Vaud,Q70248,Paudex
+Q12771,Canton of Vaud,Q69525,Payerne
+Q12771,Canton of Vaud,Q70659,Penthalaz
+Q12771,Canton of Vaud,Q70653,Penthaz
+Q12771,Canton of Vaud,Q70645,Penthéréaz
+Q11917,Canton of Geneva,Q65516,Perly-Certoux
+Q11911,Canton of Berne,Q66455,Perrefitte
+Q12771,Canton of Vaud,Q68076,Perroy
+Q12724,Canton of Ticino,Q68810,Personico
+Q11911,Canton of Berne,Q16269754,Péry-La Heutte
+Q11911,Canton of Berne,Q17325677,Petit-Val
+Q12746,Canton of St. Gallen,Q66052,Pfäfers
+Q11943,Canton of Zürich,Q68269,Pfäffikon
+Q12121,Canton of Lucerne,Q14612,Pfaffnau
+Q12146,Canton of Basel-Landschaft,Q66549,Pfeffingen
+Q11943,Canton of Zürich,Q65119,Pfungen
+Q12713,Canton of Thurgau,Q64843,Pfyn
+Q12640,Canton of Fribourg,Q67321,Pierrafortscha
+Q11911,Canton of Berne,Q67849,Pieterlen
+Q12640,Canton of Fribourg,Q67798,Plaffeien
+Q11917,Canton of Geneva,Q65273,Plan-les-Ouates
+Q12640,Canton of Fribourg,Q67374,Plasselb
+Q11911,Canton of Berne,Q15124921,Plateau de Diesse
+Q12755,Canton of Jura,Q68515,Pleigne
+Q11911,Canton of Berne,Q65748,Pohlern
+Q12771,Canton of Vaud,Q70578,Poliez-Pittet
+Q12724,Canton of Ticino,Q67750,Pollegio
+Q12771,Canton of Vaud,Q70675,Pompaples
+Q12771,Canton of Vaud,Q70600,Pomy
+Q12640,Canton of Fribourg,Q66903,Pont-en-Ogoz
+Q12640,Canton of Fribourg,Q67510,Pont-la-Ville
+Q12724,Canton of Ticino,Q67733,Ponte Capriasca
+Q12640,Canton of Fribourg,Q67401,Ponthaux
+Q11925,Canton of the Grisons,Q69259,Pontresina
+Q12755,Canton of Jura,Q68256,Porrentruy
+Q11911,Canton of Berne,Q68197,Port
+Q834,Canton of Valais,Q70393,Port-Valais
+Q12724,Canton of Ticino,Q68808,Porza
+Q11925,Canton of the Grisons,Q69503,Poschiavo
+Q12771,Canton of Vaud,Q69293,Prangins
+Q12724,Canton of Ticino,Q2107912,Prato-Sornico
+Q12146,Canton of Basel-Landschaft,Q64679,Pratteln
+Q11917,Canton of Geneva,Q69822,Pregny-Chambésy
+Q12771,Canton of Vaud,Q70574,Premier
+Q11917,Canton of Geneva,Q69839,Presinge
+Q12771,Canton of Vaud,Q68711,Préverenges
+Q12640,Canton of Fribourg,Q68659,Prévondavaux
+Q12771,Canton of Vaud,Q70563,Prévonloup
+Q12640,Canton of Fribourg,Q65963837,Prez
+Q12771,Canton of Vaud,Q69757,Prilly
+Q12771,Canton of Vaud,Q70450,Provence
+Q12771,Canton of Vaud,Q70545,Puidoux
+Q12771,Canton of Vaud,Q69738,Pully
+Q11917,Canton of Geneva,Q69832,Puplinge
+Q12724,Canton of Ticino,Q68195,Pura
+Q12771,Canton of Vaud,Q137515262,Q137515262
+Q12746,Canton of St. Gallen,Q66228,Quarten
+Q12724,Canton of Ticino,Q67501,Quinto
+Q11911,Canton of Berne,Q67140,Radelfingen
+Q11943,Canton of Zürich,Q66457,Rafz
+Q12121,Canton of Lucerne,Q7107,Rain
+Q12146,Canton of Basel-Landschaft,Q66529,Ramlinsburg
+Q12697,Canton of Schaffhausen,Q69182,Ramsen
+Q12771,Canton of Vaud,Q70505,Rances
+Q834,Canton of Valais,Q67720,Randa
+Q12713,Canton of Thurgau,Q65602,Raperswilen
+Q11911,Canton of Berne,Q67577,Rapperswil
+Q12746,Canton of St. Gallen,Q69729,Rapperswil-Jona
+Q834,Canton of Valais,Q69786,Raron
+Q12404,Canton of Uri,Q67161,Realp
+Q11911,Canton of Berne,Q68570,Rebévelier
+Q12746,Canton of St. Gallen,Q17834,Rebstein
+Q11929,Canton of Solothurn,Q66849,Recherswil
+Q12640,Canton of Fribourg,Q66763,Rechthalten
+Q11911,Canton of Berne,Q67249,Reconvilier
+Q11943,Canton of Zürich,Q70197,Regensberg
+Q11943,Canton of Zürich,Q64205,Regensdorf
+Q12079,Canton of Appenzell Ausserrhoden,Q67182,Rehetobel
+Q11911,Canton of Berne,Q66378,Reichenbach im Kandertal
+Q12433,Canton of Schwyz,Q65862,Reichenburg
+Q12121,Canton of Lucerne,Q14614,Reiden
+Q12146,Canton of Basel-Landschaft,Q64668,Reigoldswil
+Q11972,Canton of Aargau,Q67507,Reinach
+Q12146,Canton of Basel-Landschaft,Q69747,Reinach
+Q11911,Canton of Berne,Q67836,Reisiswil
+Q11972,Canton of Aargau,Q64393,Reitnau
+Q11972,Canton of Aargau,Q65580,Rekingen
+Q12640,Canton of Fribourg,Q25843,Remaufens
+Q11972,Canton of Aargau,Q64500,Remetschwil
+Q11972,Canton of Aargau,Q66738,Remigen
+Q11911,Canton of Berne,Q517870,Renan
+Q12771,Canton of Vaud,Q69745,Renens
+Q12771,Canton of Vaud,Q70214,Rennaz
+Q12079,Canton of Appenzell Ausserrhoden,Q66204,Reute
+Q11911,Canton of Berne,Q66750,Reutigen
+Q11925,Canton of the Grisons,Q66030,Rhäzüns
+Q11943,Canton of Zürich,Q67534,Rheinau
+Q12746,Canton of St. Gallen,Q69595,Rheineck
+Q11972,Canton of Aargau,Q269667,Rheinfelden
+Q11925,Canton of the Grisons,Q55264136,Rheinwald
+Q12640,Canton of Fribourg,Q67741,Riaz
+Q11943,Canton of Zürich,Q68227,Richterswil
+Q12146,Canton of Basel-Landschaft,Q67942,Rickenbach
+Q12121,Canton of Lucerne,Q7144,Rickenbach
+Q11929,Canton of Solothurn,Q66833,Rickenbach
+Q12713,Canton of Thurgau,Q68440,Rickenbach
+Q11943,Canton of Zürich,Q68457,Rickenbach
+Q834,Canton of Valais,Q68504,Riddes
+Q12640,Canton of Fribourg,Q69938,Ried bei Kerzers
+Q834,Canton of Valais,Q67474,Ried-Brig
+Q834,Canton of Valais,Q70321,Riederalp
+Q11929,Canton of Solothurn,Q66973,Riedholz
+Q12172,Canton of Basel-Stadt,Q5262,Riehen
+Q12433,Canton of Schwyz,Q66249,Riemenstalden
+Q11972,Canton of Aargau,Q66854,Rietheim
+Q11943,Canton of Zürich,Q66598,Rifferswil
+Q11911,Canton of Berne,Q65618,Riggisberg
+Q11911,Canton of Berne,Q66582,Ringgenberg
+Q11972,Canton of Aargau,Q66675,Riniken
+Q11933,Canton of Zug,Q66604,Risch
+Q12724,Canton of Ticino,Q67130,Riva San Vitale
+Q12771,Canton of Vaud,Q70515,Rivaz
+Q12724,Canton of Ticino,Q28000807,Riviera
+Q12771,Canton of Vaud,Q70224,Roche
+Q12738,Canton of Neuchâtel,Q70219,Rochefort
+Q11911,Canton of Berne,Q68011,Roches
+Q12755,Canton of Jura,Q67978,Rocourt
+Q11929,Canton of Solothurn,Q66559,Rodersdorf
+Q12146,Canton of Basel-Landschaft,Q66806,Roggenburg
+Q12121,Canton of Lucerne,Q14616,Roggliswil
+Q11911,Canton of Berne,Q68015,Roggwil
+Q12713,Canton of Thurgau,Q65577,Roggwil
+Q11911,Canton of Berne,Q70268,Rohrbach
+Q11911,Canton of Berne,Q67246,Rohrbachgraben
+Q12771,Canton of Vaud,Q69570,Rolle
+Q12771,Canton of Vaud,Q70671,Romainmôtier-Envy
+Q12771,Canton of Vaud,Q70254,Romanel-sur-Lausanne
+Q12771,Canton of Vaud,Q70332,Romanel-sur-Morges
+Q12713,Canton of Thurgau,Q65125,Romanshorn
+Q12121,Canton of Lucerne,Q7111,Römerswil
+Q11911,Canton of Berne,Q70281,Romont
+Q12640,Canton of Fribourg,Q67103,Romont
+Q12121,Canton of Lucerne,Q14557,Romoos
+Q12724,Canton of Ticino,Q68336,Ronco sopra Ascona
+Q11925,Canton of the Grisons,Q65430,Rongellen
+Q12121,Canton of Lucerne,Q14575,Root
+Q12771,Canton of Vaud,Q68904,Ropraz
+Q11943,Canton of Zürich,Q67909,Rorbas
+Q12746,Canton of St. Gallen,Q68250,Rorschach
+Q12746,Canton of St. Gallen,Q66269,Rorschacherberg
+Q12146,Canton of Basel-Landschaft,Q66368,Röschenz
+Q11925,Canton of the Grisons,Q66809,Rossa
+Q12755,Canton of Jura,Q68517,Rossemaison
+Q12771,Canton of Vaud,Q68831,Rossenges
+Q12771,Canton of Vaud,Q67694,Rossinière
+Q11911,Canton of Berne,Q65741,Röthenbach im Emmental
+Q11925,Canton of the Grisons,Q65366,Rothenbrunnen
+Q12121,Canton of Lucerne,Q7083,Rothenburg
+Q12146,Canton of Basel-Landschaft,Q66801,Rothenfluh
+Q12433,Canton of Schwyz,Q66962,Rothenthurm
+Q11972,Canton of Aargau,Q64482,Rothrist
+Q11972,Canton of Aargau,Q64433,Rottenschwil
+Q12771,Canton of Vaud,Q70000,Rougemont
+Q11925,Canton of the Grisons,Q64912,Roveredo
+Q12771,Canton of Vaud,Q70685,Rovray
+Q11911,Canton of Berne,Q67821,Rubigen
+Q11911,Canton of Berne,Q67644,Rüderswil
+Q12697,Canton of Schaffhausen,Q66796,Rüdlingen
+Q11972,Canton of Aargau,Q64306,Rudolfstetten-Friedlisberg
+Q11911,Canton of Berne,Q67556,Rüdtligen-Alchenflüh
+Q12640,Canton of Fribourg,Q70188,Rue
+Q11911,Canton of Berne,Q66387,Rüeggisberg
+Q11911,Canton of Berne,Q67834,Rüegsau
+Q12771,Canton of Vaud,Q70641,Rueyres
+Q11972,Canton of Aargau,Q66728,Rüfenach
+Q11911,Canton of Berne,Q67794,Rumendingen
+Q11972,Canton of Aargau,Q65750,Rümikon
+Q11911,Canton of Berne,Q70290,Rumisberg
+Q11943,Canton of Zürich,Q67894,Rümlang
+Q12146,Canton of Basel-Landschaft,Q67954,Rümlingen
+Q12146,Canton of Basel-Landschaft,Q67275,Rünenberg
+Q11972,Canton of Aargau,Q65306,Rupperswil
+Q11911,Canton of Berne,Q65474,Rüschegg
+Q11943,Canton of Zürich,Q66819,Rüschlikon
+Q11943,Canton of Zürich,Q67957,Russikon
+Q11917,Canton of Geneva,Q69826,Russin
+Q12121,Canton of Lucerne,Q7124,Ruswil
+Q12094,Canton of Appenzell Innerrhoden,Q67188,Rüte
+Q12746,Canton of St. Gallen,Q66890,Rüthi
+Q11943,Canton of Zürich,Q69752,Rüti
+Q11911,Canton of Berne,Q11737,Rüti bei Büren
+Q11911,Canton of Berne,Q67819,Rüti bei Lyssach
+Q11911,Canton of Berne,Q67625,Rütschelen
+Q11929,Canton of Solothurn,Q66998,Rüttenen
+Q11925,Canton of the Grisons,Q65552,S-chanf
+Q11911,Canton of Berne,Q66629,Saanen
+Q834,Canton of Valais,Q68037,Saas-Almagell
+Q834,Canton of Valais,Q70304,Saas-Balen
+Q834,Canton of Valais,Q69693,Saas-Fee
+Q834,Canton of Valais,Q70032,Saas-Grund
+Q12573,Canton of Obwalden,Q64614,Sachseln
+Q11972,Canton of Aargau,Q64448,Safenwil
+Q11925,Canton of the Grisons,Q2680071,Safiental
+Q11911,Canton of Berne,Q67542,Safnern
+Q11925,Canton of the Grisons,Q65684,Sagogn
+Q11911,Canton of Berne,Q67384,Saicourt
+Q12755,Canton of Jura,Q67666,Saignelégier
+Q834,Canton of Valais,Q70710,Saillon
+Q12640,Canton of Fribourg,Q70403,Saint-Aubin
+Q12771,Canton of Vaud,Q68073,Saint-Barthélemy
+Q12738,Canton of Neuchâtel,Q70424,Saint-Blaise
+Q12755,Canton of Jura,Q68513,Saint-Brais
+Q12771,Canton of Vaud,Q69335,Saint-Cergue
+Q12771,Canton of Vaud,Q68634,Saint-George
+Q834,Canton of Valais,Q70528,Saint-Gingolph
+Q11911,Canton of Berne,Q66390,Saint-Imier
+Q834,Canton of Valais,Q68222,Saint-Léonard
+Q12771,Canton of Vaud,Q68749,Saint-Livres
+Q12640,Canton of Fribourg,Q70434,Saint-Martin
+Q834,Canton of Valais,Q70395,Saint-Martin
+Q834,Canton of Valais,Q69545,Saint-Maurice
+Q12771,Canton of Vaud,Q68946,Saint-Oyens
+Q12771,Canton of Vaud,Q68063,Saint-Prex
+Q12771,Canton of Vaud,Q70535,Saint-Saphorin
+Q12771,Canton of Vaud,Q68019,Saint-Sulpice
+Q12771,Canton of Vaud,Q70090,Sainte-Croix
+Q12713,Canton of Thurgau,Q66644,Salenstein
+Q12640,Canton of Fribourg,Q67736,Sâles
+Q834,Canton of Valais,Q70317,Salgesch
+Q12713,Canton of Thurgau,Q66652,Salmsach
+Q834,Canton of Valais,Q68912,Salvan
+Q11925,Canton of the Grisons,Q69085,Samedan
+Q11925,Canton of the Grisons,Q69358,Samnaun
+Q11925,Canton of the Grisons,Q65687,San Vittore
+Q12724,Canton of Ticino,Q67673,Sant'Antonino
+Q11925,Canton of the Grisons,Q65569,Santa Maria in Calanca
+Q12746,Canton of St. Gallen,Q64571,Sargans
+Q11972,Canton of Aargau,Q65217,Sarmenstorf
+Q12573,Canton of Obwalden,Q63964,Sarnen
+Q11917,Canton of Geneva,Q69451,Satigny
+Q12433,Canton of Schwyz,Q65465,Sattel
+Q12771,Canton of Vaud,Q68760,Saubraz
+Q11911,Canton of Berne,Q15059724,Sauge
+Q12755,Canton of Jura,Q68083,Saulcy
+Q11911,Canton of Berne,Q69931,Saules
+Q834,Canton of Valais,Q69558,Savièse
+Q12771,Canton of Vaud,Q70647,Savigny
+Q12724,Canton of Ticino,Q67668,Savosa
+Q11911,Canton of Berne,Q66009,Saxeten
+Q834,Canton of Valais,Q69572,Saxon
+Q12697,Canton of Schaffhausen,Q9009,Schaffhausen
+Q11972,Canton of Aargau,Q65993,Schafisheim
+Q11911,Canton of Berne,Q66700,Schangnau
+Q12746,Canton of St. Gallen,Q65446,Schänis
+Q11925,Canton of the Grisons,Q64342,Scharans
+Q12404,Canton of Uri,Q66635,Schattdorf
+Q11911,Canton of Berne,Q65490,Schattenhalb
+Q11911,Canton of Berne,Q67369,Schelten
+Q12121,Canton of Lucerne,Q7143,Schenkon
+Q11911,Canton of Berne,Q67566,Scheuren
+Q11925,Canton of the Grisons,Q65244,Schiers
+Q11972,Canton of Aargau,Q237120,Schinznach
+Q11972,Canton of Aargau,Q65328,Schinznach-Bad
+Q11972,Canton of Aargau,Q66991,Schinznach-Dorf
+Q12713,Canton of Thurgau,Q67358,Schlatt
+Q11943,Canton of Zürich,Q68390,Schlatt
+Q12094,Canton of Appenzell Innerrhoden,Q64301,Schlatt-Haslen
+Q11943,Canton of Zürich,Q67884,Schleinikon
+Q12697,Canton of Schaffhausen,Q69111,Schleitheim
+Q12121,Canton of Lucerne,Q7140,Schlierbach
+Q11943,Canton of Zürich,Q69148,Schlieren
+Q11972,Canton of Aargau,Q65288,Schlossrued
+Q11925,Canton of the Grisons,Q65093,Schluein
+Q12746,Canton of St. Gallen,Q66684,Schmerikon
+Q11972,Canton of Aargau,Q65583,Schmiedrued
+Q12640,Canton of Fribourg,Q67705,Schmitten
+Q11925,Canton of the Grisons,Q65399,Schmitten
+Q11972,Canton of Aargau,Q64407,Schneisingen
+Q11929,Canton of Solothurn,Q66680,Schnottwil
+Q11943,Canton of Zürich,Q70295,Schöfflisdorf
+Q11972,Canton of Aargau,Q65411,Schöftland
+Q12146,Canton of Basel-Landschaft,Q66508,Schönenbuch
+Q12079,Canton of Appenzell Ausserrhoden,Q64296,Schönengrund
+Q11929,Canton of Solothurn,Q66884,Schönenwerd
+Q12121,Canton of Lucerne,Q7121,Schongau
+Q12713,Canton of Thurgau,Q68442,Schönholzerswilen
+Q12121,Canton of Lucerne,Q14618,Schötz
+Q12433,Canton of Schwyz,Q65623,Schübelbach
+Q11972,Canton of Aargau,Q66314,Schupfart
+Q11911,Canton of Berne,Q66783,Schüpfen
+Q12121,Canton of Lucerne,Q14559,Schüpfheim
+Q11972,Canton of Aargau,Q67340,Schwaderloch
+Q11911,Canton of Berne,Q69858,Schwadernau
+Q11911,Canton of Berne,Q65238,Schwanden bei Brienz
+Q12121,Canton of Lucerne,Q14576,Schwarzenberg
+Q11911,Canton of Berne,Q70708,Schwarzenburg
+Q11911,Canton of Berne,Q67623,Schwarzhäusern
+Q12079,Canton of Appenzell Ausserrhoden,Q64622,Schwellbrunn
+Q12094,Canton of Appenzell Innerrhoden,Q69378,Schwende
+Q12094,Canton of Appenzell Innerrhoden,Q107342348,Schwende-Rüte
+Q11943,Canton of Zürich,Q66814,Schwerzenbach
+Q12433,Canton of Schwyz,Q68155,Schwyz
+Q11925,Canton of the Grisons,Q69079,Scuol
+Q11911,Canton of Berne,Q70275,Seeberg
+Q11911,Canton of Berne,Q66928,Seedorf
+Q12404,Canton of Uri,Q69814,Seedorf
+Q11943,Canton of Zürich,Q67310,Seegräben
+Q11911,Canton of Berne,Q67236,Seehof
+Q12404,Canton of Uri,Q65355,Seelisberg
+Q11972,Canton of Aargau,Q65004,Seengen
+Q11929,Canton of Solothurn,Q66577,Seewen
+Q11925,Canton of the Grisons,Q64748,Seewis im Prättigau
+Q11911,Canton of Berne,Q69240,Seftigen
+Q12146,Canton of Basel-Landschaft,Q66547,Seltisberg
+Q11929,Canton of Solothurn,Q67935,Selzach
+Q834,Canton of Valais,Q70101,Sembrancher
+Q12121,Canton of Lucerne,Q7151,Sempach
+Q12640,Canton of Fribourg,Q67699,Semsales
+Q12771,Canton of Vaud,Q70533,Senarclens
+Q12746,Canton of St. Gallen,Q69393,Sennwald
+Q11972,Canton of Aargau,Q64563,Seon
+Q12771,Canton of Vaud,Q70555,Sergey
+Q12724,Canton of Ticino,Q70728,Serravalle
+Q12771,Canton of Vaud,Q68649,Servion
+Q11943,Canton of Zürich,Q65805,Seuzach
+Q12640,Canton of Fribourg,Q68576,Sévaz
+Q12746,Canton of St. Gallen,Q69612,Sevelen
+Q12697,Canton of Schaffhausen,Q69660,Siblingen
+Q834,Canton of Valais,Q68297,Sierre
+Q11972,Canton of Aargau,Q65729,Siglistorf
+Q11911,Canton of Berne,Q67289,Signau
+Q12771,Canton of Vaud,Q69324,Signy-Avenex
+Q11911,Canton of Berne,Q65732,Sigriswil
+Q12404,Canton of Uri,Q69135,Silenen
+Q11925,Canton of the Grisons,Q65069,Sils im Domleschg
+Q11925,Canton of the Grisons,Q64200,Sils im Engadin/Segl
+Q11925,Canton of the Grisons,Q65254,Silvaplana
+Q834,Canton of Valais,Q69194,Simplon
+Q11972,Canton of Aargau,Q64372,Sins
+Q834,Canton of Valais,Q68136,Sion
+Q12713,Canton of Thurgau,Q65797,Sirnach
+Q11911,Canton of Berne,Q69877,Siselen
+Q12404,Canton of Uri,Q66862,Sisikon
+Q12146,Canton of Basel-Landschaft,Q66554,Sissach
+Q11972,Canton of Aargau,Q540871,Sisseln
+Q12640,Canton of Fribourg,Q68619,Siviriez
+Q11925,Canton of the Grisons,Q65711,Soazza
+Q11929,Canton of Solothurn,Q68965,Solothurn
+Q12713,Canton of Thurgau,Q66641,Sommeri
+Q11911,Canton of Berne,Q67292,Sonceboz-Sombeval
+Q11911,Canton of Berne,Q66471,Sonvilier
+Q11917,Canton of Geneva,Q65535,Soral
+Q12724,Canton of Ticino,Q69995,Sorengo
+Q12640,Canton of Fribourg,Q66498,Sorens
+Q11911,Canton of Berne,Q67458,Sorvilier
+Q12755,Canton of Jura,Q67480,Soubey
+Q12755,Canton of Jura,Q70414,Soyhières
+Q12079,Canton of Appenzell Ausserrhoden,Q67148,Speicher
+Q11911,Canton of Berne,Q69484,Spiez
+Q12404,Canton of Uri,Q69663,Spiringen
+Q11972,Canton of Aargau,Q64210,Spreitenbach
+Q12746,Canton of St. Gallen,Q25607,St. Gallen
+Q12746,Canton of St. Gallen,Q66243,St. Margrethen
+Q11925,Canton of the Grisons,Q68986,St. Moritz
+Q834,Canton of Valais,Q68464,St. Niklaus
+Q12640,Canton of Fribourg,Q68042,St. Silvester
+Q11911,Canton of Berne,Q66798,St. Stephan
+Q12640,Canton of Fribourg,Q66453,St. Ursen
+Q12724,Canton of Ticino,Q67760,Stabio
+Q11943,Canton of Zürich,Q67907,Stadel bei Niederglatt
+Q11943,Canton of Zürich,Q69774,Stäfa
+Q11972,Canton of Aargau,Q64239,Staffelbach
+Q834,Canton of Valais,Q68460,Stalden
+Q834,Canton of Valais,Q70349,Staldenried
+Q11943,Canton of Zürich,Q66062,Stallikon
+Q11943,Canton of Zürich,Q60322693,Stammheim
+Q12592,Canton of Nidwalden,Q63931,Stans
+Q12592,Canton of Nidwalden,Q64285,Stansstad
+Q11929,Canton of Solothurn,Q66154,Starrkirch-Wil
+Q11972,Canton of Aargau,Q65137,Staufen
+Q12713,Canton of Thurgau,Q67123,Steckborn
+Q11911,Canton of Berne,Q69668,Steffisburg
+Q834,Canton of Valais,Q70624,Steg-Hohtenn
+Q11972,Canton of Aargau,Q65914,Stein
+Q12079,Canton of Appenzell Ausserrhoden,Q67193,Stein
+Q12697,Canton of Schaffhausen,Q11939,Stein am Rhein
+Q12746,Canton of St. Gallen,Q66860,Steinach
+Q12433,Canton of Schwyz,Q67191,Steinen
+Q12433,Canton of Schwyz,Q66900,Steinerberg
+Q11933,Canton of Zug,Q66697,Steinhausen
+Q11943,Canton of Zürich,Q67887,Steinmaur
+Q11972,Canton of Aargau,Q65158,Stetten
+Q12697,Canton of Schaffhausen,Q69180,Stetten
+Q12713,Canton of Thurgau,Q65828,Stettfurt
+Q11911,Canton of Berne,Q70052,Stettlen
+Q11911,Canton of Berne,Q15060153,Stocken-Höfen
+Q11972,Canton of Aargau,Q64237,Strengelbach
+Q11911,Canton of Berne,Q69908,Studen
+Q11929,Canton of Solothurn,Q66281,Stüsslingen
+Q11929,Canton of Solothurn,Q66959,Subingen
+Q12771,Canton of Vaud,Q68943,Suchy
+Q11925,Canton of the Grisons,Q66012,Sufers
+Q11972,Canton of Aargau,Q65195,Suhr
+Q12713,Canton of Thurgau,Q65971,Sulgen
+Q12771,Canton of Vaud,Q70537,Sullens
+Q11911,Canton of Berne,Q68167,Sumiswald
+Q11925,Canton of the Grisons,Q64942,Sumvitg
+Q12640,Canton of Fribourg,Q68606,Surpierre
+Q12121,Canton of Lucerne,Q7123,Sursee
+Q11925,Canton of the Grisons,Q19944645,Surses
+Q12771,Canton of Vaud,Q70017,Suscévaz
+Q11911,Canton of Berne,Q69463,Sutz-Lattrigen
+Q12771,Canton of Vaud,Q68684,Syens
+Q12640,Canton of Fribourg,Q66865,Tafers
+Q11972,Canton of Aargau,Q65190,Tägerig
+Q12713,Canton of Thurgau,Q66188,Tägerwilen
+Q11925,Canton of the Grisons,Q64740,Tamins
+Q12771,Canton of Vaud,Q69312,Tannay
+Q12771,Canton of Vaud,Q70065,Tartegnin
+Q834,Canton of Valais,Q69305,Täsch
+Q11911,Canton of Berne,Q69443,Täuffelen
+Q11911,Canton of Berne,Q67203,Tavannes
+Q12146,Canton of Basel-Landschaft,Q67262,Tecknau
+Q11972,Canton of Aargau,Q64255,Tegerfelden
+Q12724,Canton of Ticino,Q67745,Tenero-Contra
+Q12146,Canton of Basel-Landschaft,Q67351,Tenniken
+Q12640,Canton of Fribourg,Q67313,Tentlingen
+Q834,Canton of Valais,Q67151,Termen
+Q12724,Canton of Ticino,Q2405262,Terre di Pedemonte
+Q12079,Canton of Appenzell Ausserrhoden,Q67209,Teufen
+Q11972,Canton of Aargau,Q65182,Teufenthal
+Q11911,Canton of Berne,Q65554,Teuffenthal
+Q12771,Canton of Vaud,Q70726,Tévenon
+Q12746,Canton of St. Gallen,Q65543,Thal
+Q11972,Canton of Aargau,Q65907,Thalheim
+Q11943,Canton of Zürich,Q65844,Thalheim an der Thur
+Q11943,Canton of Zürich,Q68959,Thalwil
+Q12697,Canton of Schaffhausen,Q69152,Thayngen
+Q12146,Canton of Basel-Landschaft,Q66595,Therwil
+Q11911,Canton of Berne,Q66040,Thierachern
+Q11917,Canton of Geneva,Q68201,Thônex
+Q11911,Canton of Berne,Q70277,Thörigen
+Q11911,Canton of Berne,Q68978,Thun
+Q12713,Canton of Thurgau,Q64847,Thundorf
+Q11911,Canton of Berne,Q67788,Thunstetten
+Q11911,Canton of Berne,Q67869174,Thurnen
+Q12146,Canton of Basel-Landschaft,Q67926,Thürnen
+Q11925,Canton of the Grisons,Q66171,Thusis
+Q12146,Canton of Basel-Landschaft,Q64687,Titterten
+Q12713,Canton of Thurgau,Q65818,Tobel-Tägerschen
+Q11911,Canton of Berne,Q66692,Toffen
+Q12771,Canton of Vaud,Q69398,Tolochenaz
+Q834,Canton of Valais,Q68469,Törbel
+Q12640,Canton of Fribourg,Q68048,Torny
+Q12724,Canton of Ticino,Q68001,Torricella-Taverne
+Q11911,Canton of Berne,Q67086,Trachselwald
+Q11911,Canton of Berne,Q66384,Tramelan
+Q12697,Canton of Schaffhausen,Q66977,Trasadingen
+Q11911,Canton of Berne,Q69873,Treiten
+Q12771,Canton of Vaud,Q69318,Trélex
+Q12724,Canton of Ticino,Q104776479,Tresa
+Q12771,Canton of Vaud,Q68879,Trey
+Q12771,Canton of Vaud,Q68718,Treycovagnes
+Q12771,Canton of Vaud,Q70673,Treytorrens
+Q12640,Canton of Fribourg,Q67448,Treyvaux
+Q12121,Canton of Lucerne,Q7138,Triengen
+Q834,Canton of Valais,Q68856,Trient
+Q11929,Canton of Solothurn,Q65037,Trimbach
+Q11925,Canton of the Grisons,Q69099,Trimmis
+Q11925,Canton of the Grisons,Q65564,Trin
+Q12079,Canton of Appenzell Ausserrhoden,Q68189,Trogen
+Q11917,Canton of Geneva,Q69817,Troinex
+Q834,Canton of Valais,Q68823,Troistorrents
+Q11911,Canton of Berne,Q67842,Trub
+Q11911,Canton of Berne,Q69114,Trubschachen
+Q11943,Canton of Zürich,Q67933,Trüllikon
+Q11925,Canton of the Grisons,Q64951,Trun
+Q11943,Canton of Zürich,Q70072,Truttikon
+Q11925,Canton of the Grisons,Q65699,Tschappina
+Q11925,Canton of the Grisons,Q70508,Tschiertschen-Praden
+Q11911,Canton of Berne,Q69891,Tschugg
+Q12746,Canton of St. Gallen,Q66562,Tübach
+Q12433,Canton of Schwyz,Q65620,Tuggen
+Q11925,Canton of the Grisons,Q64280,Tujetsch
+Q11943,Canton of Zürich,Q65858,Turbenthal
+Q834,Canton of Valais,Q2363869,Turtmann-Unterems
+Q11911,Canton of Berne,Q70621,Twann-Tüscherz
+Q12121,Canton of Lucerne,Q14577,Udligenswil
+Q12640,Canton of Fribourg,Q67689,Ueberstorf
+Q11911,Canton of Berne,Q65249,Uebeschi
+Q11972,Canton of Aargau,Q64376,Uerkheim
+Q12713,Canton of Thurgau,Q65810,Uesslingen-Buch
+Q11911,Canton of Berne,Q66114,Uetendorf
+Q11943,Canton of Zürich,Q67058,Uetikon am See
+Q11972,Canton of Aargau,Q65203,Uezwil
+Q12121,Canton of Lucerne,Q14621,Ufhusen
+Q11943,Canton of Zürich,Q66678,Uitikon
+Q12640,Canton of Fribourg,Q67430,Ulmiz
+Q11933,Canton of Zug,Q65658,Unterägeri
+Q834,Canton of Valais,Q68215,Unterbäch
+Q12746,Canton of St. Gallen,Q66416,Untereggen
+Q11943,Canton of Zürich,Q66079,Unterengstringen
+Q11972,Canton of Aargau,Q64253,Unterentfelden
+Q12433,Canton of Schwyz,Q64824,Unteriberg
+Q11972,Canton of Aargau,Q65140,Unterkulm
+Q11911,Canton of Berne,Q68170,Unterlangenegg
+Q11972,Canton of Aargau,Q65150,Unterlunkhofen
+Q11929,Canton of Solothurn,Q67889,Unterramsern
+Q12404,Canton of Uri,Q65959,Unterschächen
+Q11911,Canton of Berne,Q67097,Unterseen
+Q11972,Canton of Aargau,Q64269,Untersiggenthal
+Q11925,Canton of the Grisons,Q69095,Untervaz
+Q11943,Canton of Zürich,Q69109,Urdorf
+Q11925,Canton of the Grisons,Q64816,Urmein
+Q12079,Canton of Appenzell Ausserrhoden,Q67168,Urnäsch
+Q11911,Canton of Berne,Q70287,Ursenbach
+Q12771,Canton of Vaud,Q70046,Ursins
+Q12640,Canton of Fribourg,Q70452,Ursy
+Q11911,Canton of Berne,Q67282,Urtenen-Schönbühl
+Q11943,Canton of Zürich,Q64032,Uster
+Q11911,Canton of Berne,Q66120,Uttigen
+Q12713,Canton of Thurgau,Q65634,Uttwil
+Q11911,Canton of Berne,Q67778,Utzenstorf
+Q12746,Canton of St. Gallen,Q67106,Uznach
+Q12746,Canton of St. Gallen,Q64171,Uzwil
+Q12724,Canton of Ticino,Q67470,Vacallo
+Q834,Canton of Valais,Q99519700,Val de Bagnes
+Q12724,Canton of Ticino,Q109211862,Val Mara
+Q11925,Canton of the Grisons,Q70513,Val Müstair
+Q12755,Canton of Jura,Q3553411,Val Terbi
+Q834,Canton of Valais,Q68528,Val-d'Illiez
+Q12640,Canton of Fribourg,Q2507678,Val-de-Charmey
+Q12738,Canton of Neuchâtel,Q2507659,Val-de-Ruz
+Q12738,Canton of Neuchâtel,Q70526,Val-de-Travers
+Q11911,Canton of Berne,Q17326749,Valbirse
+Q12771,Canton of Vaud,Q70689,Valbroye
+Q12771,Canton of Vaud,Q70582,Valeyres-sous-Montagny
+Q12771,Canton of Vaud,Q70501,Valeyres-sous-Rances
+Q12771,Canton of Vaud,Q68680,Valeyres-sous-Ursins
+Q12640,Canton of Fribourg,Q70343,Vallon
+Q12771,Canton of Vaud,Q68587,Vallorbe
+Q11925,Canton of the Grisons,Q64585,Vals
+Q11925,Canton of the Grisons,Q7912633,Valsot
+Q11917,Canton of Geneva,Q65522,Vandœuvres
+Q834,Canton of Valais,Q67482,Varen
+Q12771,Canton of Vaud,Q70665,Vaulion
+Q12640,Canton of Fribourg,Q66444,Vaulruz
+Q12771,Canton of Vaud,Q68836,Vaux-sur-Morges
+Q11925,Canton of the Grisons,Q64647,Vaz/Obervaz
+Q11911,Canton of Berne,Q66852,Vechigen
+Q11972,Canton of Aargau,Q65142,Veltheim
+Q12755,Canton of Jura,Q58038,Vendlincourt
+Q12724,Canton of Ticino,Q68825,Vernate
+Q12640,Canton of Fribourg,Q70507,Vernay
+Q834,Canton of Valais,Q68713,Vernayaz
+Q11917,Canton of Geneva,Q63922,Vernier
+Q834,Canton of Valais,Q68936,Vérossaz
+Q11917,Canton of Geneva,Q63979,Versoix
+Q12724,Canton of Ticino,Q1684937,Verzasca
+Q834,Canton of Valais,Q69515,Vétroz
+Q12771,Canton of Vaud,Q68160,Vevey
+Q834,Canton of Valais,Q67724,Vex
+Q11917,Canton of Geneva,Q69587,Veyrier
+Q834,Canton of Valais,Q70112,Veysonnaz
+Q12771,Canton of Vaud,Q68071,Veytaux
+Q12724,Canton of Ticino,Q70126,Vezia
+Q12771,Canton of Vaud,Q69282,Vich
+Q12724,Canton of Ticino,Q70118,Vico Morcote
+Q12771,Canton of Vaud,Q68745,Villars-Epeney
+Q12771,Canton of Vaud,Q70570,Villars-le-Comte
+Q12771,Canton of Vaud,Q68644,Villars-le-Terroir
+Q12771,Canton of Vaud,Q68883,Villars-Sainte-Croix
+Q12771,Canton of Vaud,Q68724,Villars-sous-Yens
+Q12640,Canton of Fribourg,Q69760,Villars-sur-Glâne
+Q12640,Canton of Fribourg,Q67356,Villarsel-sur-Marly
+Q12771,Canton of Vaud,Q70591,Villarzel
+Q12640,Canton of Fribourg,Q59925980,Villaz
+Q12771,Canton of Vaud,Q69972,Villeneuve
+Q11911,Canton of Berne,Q69979,Villeret
+Q11972,Canton of Aargau,Q65193,Villigen
+Q11972,Canton of Aargau,Q64232,Villmergen
+Q11972,Canton of Aargau,Q65995,Villnachern
+Q12640,Canton of Fribourg,Q68055,Villorsonnens
+Q12746,Canton of St. Gallen,Q66246,Vilters-Wangs
+Q11911,Canton of Berne,Q67084,Vinelz
+Q12771,Canton of Vaud,Q68651,Vinzel
+Q834,Canton of Valais,Q69549,Vionnaz
+Q834,Canton of Valais,Q64147,Visp
+Q834,Canton of Valais,Q70387,Visperterminen
+Q12121,Canton of Lucerne,Q14578,Vitznau
+Q11943,Canton of Zürich,Q67922,Volken
+Q11943,Canton of Zürich,Q69754,Volketswil
+Q11972,Canton of Aargau,Q64234,Vordemwald
+Q12433,Canton of Schwyz,Q66794,Vorderthal
+Q834,Canton of Valais,Q68889,Vouvry
+Q12640,Canton of Fribourg,Q66520,Vuadens
+Q12771,Canton of Vaud,Q68910,Vuarrens
+Q12771,Canton of Vaud,Q70048,Vucherens
+Q12771,Canton of Vaud,Q70540,Vufflens-la-Ville
+Q12771,Canton of Vaud,Q69445,Vufflens-le-Château
+Q12771,Canton of Vaud,Q70627,Vugelles-La Mothe
+Q12640,Canton of Fribourg,Q68485,Vuisternens-devant-Romont
+Q12771,Canton of Vaud,Q70498,Vuiteboeuf
+Q12771,Canton of Vaud,Q68628,Vulliens
+Q12771,Canton of Vaud,Q68636,Vullierens
+Q12771,Canton of Vaud,Q70706,Vully-les-Lacs
+Q11911,Canton of Berne,Q65734,Wachseldorn
+Q11943,Canton of Zürich,Q69718,Wädenswil
+Q12713,Canton of Thurgau,Q65519,Wagenhausen
+Q12146,Canton of Basel-Landschaft,Q67947,Wahlen
+Q11933,Canton of Zug,Q66298,Walchwil
+Q12079,Canton of Appenzell Ausserrhoden,Q67175,Wald
+Q11911,Canton of Berne,Q67251,Wald
+Q11943,Canton of Zürich,Q67272,Wald
+Q12146,Canton of Basel-Landschaft,Q67092,Waldenburg
+Q12713,Canton of Thurgau,Q65991,Wäldi
+Q12746,Canton of St. Gallen,Q64630,Waldkirch
+Q12079,Canton of Appenzell Ausserrhoden,Q69658,Waldstatt
+Q12746,Canton of St. Gallen,Q64191,Walenstadt
+Q11911,Canton of Berne,Q67460,Walkringen
+Q11972,Canton of Aargau,Q65909,Wallbach
+Q11943,Canton of Zürich,Q69374,Wallisellen
+Q11911,Canton of Berne,Q67851,Walliswil bei Niederbipp
+Q11911,Canton of Berne,Q67426,Walliswil bei Wangen
+Q11911,Canton of Berne,Q69926,Walperswil
+Q11972,Canton of Aargau,Q64242,Waltenschwil
+Q11911,Canton of Berne,Q67548,Walterswil
+Q11929,Canton of Solothurn,Q66275,Walterswil
+Q12079,Canton of Appenzell Ausserrhoden,Q64594,Walzenhausen
+Q12433,Canton of Schwyz,Q66707,Wangen
+Q11911,Canton of Berne,Q67536,Wangen an der Aare
+Q11929,Canton of Solothurn,Q69967,Wangen bei Olten
+Q11943,Canton of Zürich,Q66829,Wangen-Brüttisellen
+Q12713,Canton of Thurgau,Q68177,Wängi
+Q12746,Canton of St. Gallen,Q66788,Wartau
+Q12713,Canton of Thurgau,Q68405,Warth-Weiningen
+Q12404,Canton of Uri,Q69635,Wassen
+Q11943,Canton of Zürich,Q67882,Wasterkingen
+Q11911,Canton of Berne,Q65492,Wattenwil
+Q12746,Canton of St. Gallen,Q66601,Wattwil
+Q12121,Canton of Lucerne,Q14623,Wauwil
+Q12746,Canton of St. Gallen,Q69644,Weesen
+Q11972,Canton of Aargau,Q65889,Wegenstetten
+Q12121,Canton of Lucerne,Q14580,Weggis
+Q11943,Canton of Zürich,Q70088,Weiach
+Q12713,Canton of Thurgau,Q68258,Weinfelden
+Q11943,Canton of Zürich,Q66093,Weiningen
+Q11943,Canton of Zürich,Q70375,Weisslingen
+Q11929,Canton of Solothurn,Q99519698,Welschenrohr-Gänsbrunnen
+Q11911,Canton of Berne,Q69866,Wengi
+Q12146,Canton of Basel-Landschaft,Q67024,Wenslingen
+Q12121,Canton of Lucerne,Q14562,Werthenstein
+Q11972,Canton of Aargau,Q27576,Wettingen
+Q11943,Canton of Zürich,Q65934,Wettswil am Albis
+Q11943,Canton of Zürich,Q68305,Wetzikon
+Q11911,Canton of Berne,Q65945,Wichtrach
+Q11972,Canton of Aargau,Q64384,Widen
+Q12746,Canton of St. Gallen,Q65612,Widnau
+Q11911,Canton of Berne,Q67133,Wiedlisbach
+Q11943,Canton of Zürich,Q64853,Wiesendangen
+Q11911,Canton of Berne,Q67648,Wiggiswil
+Q12713,Canton of Thurgau,Q65834,Wigoltingen
+Q12121,Canton of Lucerne,Q14625,Wikon
+Q12746,Canton of St. Gallen,Q64077,Wil
+Q11943,Canton of Zürich,Q67223,Wil
+Q11943,Canton of Zürich,Q66752,Wila
+Q12697,Canton of Schaffhausen,Q69164,Wilchingen
+Q11943,Canton of Zürich,Q67346,Wildberg
+Q11911,Canton of Berne,Q69256,Wilderswil
+Q12746,Canton of St. Gallen,Q70619,Wildhaus-Alt St. Johann
+Q12713,Canton of Thurgau,Q65765,Wilen
+Q834,Canton of Valais,Q67489,Wiler
+Q11911,Canton of Berne,Q67396,Wiler bei Utzenstorf
+Q11911,Canton of Berne,Q66919,Wileroltigen
+Q11972,Canton of Aargau,Q64250,Wiliberg
+Q11911,Canton of Berne,Q67404,Willadingen
+Q12121,Canton of Lucerne,Q14627,Willisau
+Q11911,Canton of Berne,Q65949,Wimmis
+Q11972,Canton of Aargau,Q69208,Windisch
+Q11943,Canton of Zürich,Q66588,Winkel
+Q12146,Canton of Basel-Landschaft,Q66111,Wintersingen
+Q11943,Canton of Zürich,Q9125,Winterthur
+Q11929,Canton of Solothurn,Q65588,Winznau
+Q11929,Canton of Solothurn,Q65134,Wisen
+Q11972,Canton of Aargau,Q65174,Wislikofen
+Q12746,Canton of St. Gallen,Q66056,Wittenbach
+Q11929,Canton of Solothurn,Q70059,Witterswil
+Q12146,Canton of Basel-Landschaft,Q68013,Wittinsburg
+Q11972,Canton of Aargau,Q69058,Wittnau
+Q11972,Canton of Aargau,Q68244,Wohlen
+Q11911,Canton of Berne,Q67613,Wohlen bei Bern
+Q11972,Canton of Aargau,Q65161,Wohlenschwil
+Q12592,Canton of Nidwalden,Q64351,Wolfenschiessen
+Q12079,Canton of Appenzell Ausserrhoden,Q661621,Wolfhalden
+Q11972,Canton of Aargau,Q66442,Wölflinswil
+Q11929,Canton of Solothurn,Q66066,Wolfwil
+Q12121,Canton of Lucerne,Q7125,Wolhusen
+Q12433,Canton of Schwyz,Q69647,Wollerau
+Q11911,Canton of Berne,Q69732,Worb
+Q11911,Canton of Berne,Q67364,Worben
+Q12640,Canton of Fribourg,Q67718,Wünnewil-Flamatt
+Q12713,Canton of Thurgau,Q65771,Wuppenau
+Q11972,Canton of Aargau,Q64219,Würenlingen
+Q11972,Canton of Aargau,Q64258,Würenlos
+Q11911,Canton of Berne,Q70104,Wynau
+Q11911,Canton of Berne,Q67439,Wynigen
+Q11911,Canton of Berne,Q66446,Wyssachen
+Q12771,Canton of Vaud,Q68642,Yens
+Q12771,Canton of Vaud,Q63946,Yverdon-les-Bains
+Q12771,Canton of Vaud,Q68492,Yvonand
+Q12771,Canton of Vaud,Q70240,Yvorne
+Q11911,Canton of Berne,Q67424,Zauggenried
+Q11911,Canton of Berne,Q66924,Zäziwil
+Q12146,Canton of Basel-Landschaft,Q65343,Zeglingen
+Q11972,Canton of Aargau,Q66657,Zeihen
+Q11972,Canton of Aargau,Q65147,Zeiningen
+Q12121,Canton of Lucerne,Q14628,Zell
+Q11943,Canton of Zürich,Q67211,Zell
+Q834,Canton of Valais,Q70359,Zeneggen
+Q834,Canton of Valais,Q27494,Zermatt
+Q11925,Canton of the Grisons,Q64609,Zernez
+Q11972,Canton of Aargau,Q65188,Zetzwil
+Q12146,Canton of Basel-Landschaft,Q64705,Ziefen
+Q11911,Canton of Berne,Q66098,Zielebach
+Q12713,Canton of Thurgau,Q65443,Zihlschlacht-Sitterdorf
+Q11925,Canton of the Grisons,Q64890,Zillis-Reischen
+Q11925,Canton of the Grisons,Q69616,Zizers
+Q11972,Canton of Aargau,Q63986,Zofingen
+Q11911,Canton of Berne,Q69675,Zollikofen
+Q11943,Canton of Zürich,Q218691,Zollikon
+Q11929,Canton of Solothurn,Q18473,Zuchwil
+Q11972,Canton of Aargau,Q64221,Zufikon
+Q11933,Canton of Zug,Q68144,Zug
+Q11929,Canton of Solothurn,Q66345,Zullwil
+Q11943,Canton of Zürich,Q66898,Zumikon
+Q12146,Canton of Basel-Landschaft,Q66240,Zunzgen
+Q11925,Canton of the Grisons,Q66184,Zuoz
+Q11943,Canton of Zürich,Q72,Zurich
+Q11972,Canton of Aargau,Q65246908,Zurzach
+Q11972,Canton of Aargau,Q65918,Zuzgen
+Q11911,Canton of Berne,Q66932,Zuzwil
+Q12746,Canton of St. Gallen,Q66279,Zuzwil
+Q11911,Canton of Berne,Q69417,Zweisimmen
+Q12146,Canton of Basel-Landschaft,Q66702,Zwingen
+Q834,Canton of Valais,Q68087,Zwischbergen

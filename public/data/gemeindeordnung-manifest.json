@@ -1006,5 +1006,19 @@
     "cantonId": "Q11943",
     "title": "RRB-2023-1102_GO_PG_Zollikon (Genehmigungsunterlagen des Regierungsrates, PDF)",
     "downloadedAt": "2026-01-18T13:28:07.827Z"
+  },
+  "Q66898": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q66898.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2018/889/GO_Zumikon.pdf",
+    "cantonId": "Q11943",
+    "title": "Kanton Zürich – GO_Zumikon.pdf (Gemeindeordnung Zumikon), attached to Regierungsratsbeschluss Nr. 889/2018 (PDF)",
+    "downloadedAt": "2026-01-18T13:28:25.897Z"
+  },
+  "Q72": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q72.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2023/1030/RRB-2023-1030_GO_Zuerich.pdf",
+    "cantonId": "Q11943",
+    "title": "Gemeindeordnung der Stadt Zürich (vom 13. Juni 2021; konsolidierte Fassung mit Änderungen bis 18. Juni 2023) – PDF via Kanton Zürich (Regierungsratsbeschluss Nr. 1030/2023)",
+    "downloadedAt": "2026-01-18T13:28:53.377Z"
   }
 }

@@ -964,5 +964,47 @@
     "cantonId": "Q11943",
     "title": "GO_SG_Wiesendangen.pdf — Gemeindeordnung der Schulgemeinde Wiesendangen (approved by Regierungsrat, RRB Nr. 1243/2020; PDF attachment)",
     "downloadedAt": "2026-01-18T13:25:45.564Z"
+  },
+  "Q67223": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q67223.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2021/1334/GO_PG_Wil.pdf",
+    "cantonId": "Q11943",
+    "title": "Kanton Zürich – Regierungsratsbeschluss Nr. 1334/2021: GO_PG_Wil (Genehmigungsunterlagen)",
+    "downloadedAt": "2026-01-18T13:26:05.553Z"
+  },
+  "Q66752": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q66752.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2022/152/GO_SG_Wila.pdf",
+    "cantonId": "Q11943",
+    "title": "Gemeindeordnung der Sekundarschulgemeinde Wila (vom 28. November 2021) – genehmigt via Regierungsratsbeschluss Nr. 152/2022",
+    "downloadedAt": "2026-01-18T13:26:18.109Z"
+  },
+  "Q67346": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q67346.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2020/153/GO_Wildberg.pdf",
+    "cantonId": "Q11943",
+    "title": "Regierungsratsbeschluss Nr. 153/2020 — Beilage «GO_Wildberg» (Gemeindeordnung) — PDF",
+    "downloadedAt": "2026-01-18T13:26:40.631Z"
+  },
+  "Q9125": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q9125.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2021/1386/GO_PG_Winterthur.pdf",
+    "cantonId": "Q11943",
+    "title": "Gemeindeordnung (GO) der Stadt Winterthur – genehmigte Fassung (Stand 1. Januar 2022), vom Regierungsrat Kanton Zürich genehmigt am 1. Dezember 2021 (RRB Nr. 1386/2021)",
+    "downloadedAt": "2026-01-18T13:27:21.194Z"
+  },
+  "Q67211": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q67211.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2020/882/GO_Zell.pdf",
+    "cantonId": "Q11943",
+    "title": "Kanton Zürich – Regierungsratsbeschluss Nr. 882/2020 (Genehmigung neue Gemeindeordnung Zell) – Anlage «GO_Zell»",
+    "downloadedAt": "2026-01-18T13:27:34.076Z"
+  },
+  "Q218691": {
+    "relativePath": "/gemeindeordnungen/Q11943/Q218691.pdf",
+    "sourceUrl": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2023/1102/RRB-2023-1102_GO_PG_Zollikon.pdf",
+    "cantonId": "Q11943",
+    "title": "RRB-2023-1102_GO_PG_Zollikon (Genehmigungsunterlagen des Regierungsrates, PDF)",
+    "downloadedAt": "2026-01-18T13:28:07.827Z"
   }
 }
